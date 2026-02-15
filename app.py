@@ -5,7 +5,8 @@ import random
 import os
 
 # Configuration
-QUESTIONS_FILE = r"d:\Akash Exam\questions.json"
+# Use relative path for deployment compatibility
+QUESTIONS_FILE = "questions.json"
 TEST_DURATION_SECONDS = 3600 # 1 Hour
 
 def load_questions():
