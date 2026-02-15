@@ -1,0 +1,226 @@
+--- Page 67 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+153. B: Heat is transferred between a human and the surrounding environment through means of:
+(1) evaporation, (2) conduction, (3) radiation, and (4) convection. Heat is always transferred from
+higher temperatures to lower temperatures. Too much heat dissipation can result in cold stress-
+related conditions, and not enough dissipation can result in heat stress-related conditions.
+154. A: MIL-STD-882B is regularly implemented across a wide array of industries for directing the
+production of procedural guidance within the realm of system safety.
+155. B: Air ventilation systems are usually responsible for a variety of functions within the
+workplace. They facilitate the removal of carbon dioxide (CO )buildups, they remove odors, and
+2
+they regularly eliminate toxins especially through the use of built-in filtration units. They do not,
+however, directly increase the concentration of indoor oxygen levels (it is accurate to assert,
+however, that they may indirectly increase oxygen levels via their CO removal capability).
+2
+156. D: Tools, refuse articles (rags, empty cans, etc.), and lumber can all be significant tripping
+hazards depending on the size, weight, balance, and frictional coefficients of the item(s). In addition,
+uneven floor or ground surfaces, open file drawers, and electrical cables are also regularly
+responsible for tripping incidents in the workplace. The most appropriate course(s) of action for
+the CSP would be to immediately notify the responsible work parties in the area to remove,
+relocate, and/or properly store the articles in question. The CSP should also then notify the area
+manager in regard to these safety infractions and also recommend remedial safety training for
+responsible staff members.
+157. C: Calculations and assessments performed by insurance companies that evaluate company
+loss-rate records for establishing worker compensation rates are conventionally known as
+experience modifiers.
+158. D: On behalf of the user and to protect against liabilities, system safety designs normally
+allocate considerable detail to vital product facets such as proper-use protocols, maintenance,
+hygiene, safeguards, and ergonomics.
+159. A: The construction or modification phase during a facility development process should place
+considerable emphasis on quality assurance and quality control. Any significant lapse in these areas
+at this final stage of the process could potentially result in severe consequences.
+160. C: In the realm of safety-basis evaluation, a design-basis accident that has a frequency
+(probability) of occurrence in the range of 10–6 to 10–4 per year and potential associated
+consequences in the range of 100 to 300 deaths will have a resulting overall risk range of 0.0001 to
+0.03 deaths per year. This is derived given that risk = probability x consequences that an associated
+range would result from grouping the lowest probability and consequence combination for the low
+end, and that the highest probability and consequence combination for the high end.
+Low end of risk range = 10–6 x 100 fatalities = 0.0001
+High end of risk range = 10–4 x 300 fatalities = 0.03
+161. D: Given that Bob and Bill both work in a loud processing area, Bob has partial hearing loss
+and also speaks with a lisp, and Bill’s hearing is unimpaired, it is likely that the frequent
+miscommunications are due to Bob’s deafness, Bob’s not speaking clearly, and/or the ongoing loud
+background noise in the work area. Indeed, the communication issues may be predominately tied to
+one, two, or possibly all three of these factors; however, there may potentially be even other factors
+65
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 68 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+at play that may not be regularly accounted for (e.g., Bill may not have good listening skills or is
+always preoccupied or Bob and/or Bill may not be good body language communicators, etc.). In
+summary, there are too many potential causal variables in this case (several more of which may be
+unknown) to be able to render a firm determination as to the predominant (i.e., most likely) reason
+why there is so much miscommunication between these two individuals.
+162. A: A yellow warning sign that shows a downward arrow intersecting with a worker’s hard hat
+is likely depicting a potential (danger) for falling objects. If the sign were red colored, it would be
+representing a very high danger of falling objects.
+163. C: The law of safety progress states that an organization will undergo fiscal hardship if it
+generates or disseminates a hazardous product and then ultimately neglects to resolve the
+underlying issue(s) that is/are causing the hazard.
+164. B: Americium-beryllium (Am-Be) neutron sources, and the like, are often used in nuclear
+reactors and other systems to provide initial quantities of neutrons to help foster an eventual chain
+reaction that leads to a state of criticality. The most accurate description of how an Am-Be source
+generates its neutrons is via the employment of an (α, n) nuclear reaction. Americium is a prolific
+alpha-emitting radionuclide, and beryllium is very susceptible to absorption of such particles (i.e., it
+has a high alpha cross-section). When an alpha particle is absorbed by a beryllium atom, the
+beryllium undergoes a nuclear reaction in which its nucleus moves into a higher energy state and
+resultantly expels a neutron to regain stability.
+165. C: The office warden is usually responsible for taking roll calls during a shelter in place or a
+building evacuation. These roll calls help to ensure that all employees are accounted for during an
+emergency situation.
+166. B: If a rare event is at hand, such as a significant acid leak in a chemical processing plant, a
+special safety procedure that covers this type of event should be made immediately available and
+ultimately implemented for dealing with this type of transient or anomalous scenario.
+167. C: According to Frederick Herzberg’s theory of behavior, a worker’s desired extrinsic
+outcomes typically include facets such as job security, income, and safe and comfortable working
+conditions.
+168. A: According to statistical measures, workers who have habitual alcohol or drug problems
+miss work (i.e., incur lost days) approximately 15 times more often than those who do not have
+such problems. This statistic is especially compounded for those cases in which workers come to
+work in conditions not fit for duty and must subsequently leave the premises.
+169. D: A goniometer is typically utilized within the realm of ergonomics for measuring angles
+associated with human joints (e.g., knees, elbows, wrists, and ankles).
+170. C: A blood pressure reading of 171/79 along with a resting pulse rate of 103 would likely be
+inferred by an attending physician as a high systolic (hypertension) reading, a normal diastolic
+reading, and possible tachycardia (rapid pulse).
+171. C: There are numerous mechanisms and/or design configurations that can be employed
+within system components and machinery to create desired resistant forces that serve a functional
+purpose. Such mechanisms and configurations may include springs, inertia, and viscous damping.
+66
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 69 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+172. B: Decompression sickness can be significantly mitigated by preventing overexposure to high-
+pressure environments and carefully and steadily employing rates of decompression.
+173. A: A computer mouse or joystick is categorized as a continuous control mechanism. Light
+switches, buttons, and computer keyboards, although control mechanisms, are not of the
+continuous variety.
+174. D: Within the realm of system design, the integration of multiple elements with overlapping
+functions that permit the continuous normal (ongoing) operation of a given product in the case of
+one (or more) elemental failure(s) is known as redundancy.
+175. B: A system that automatically powers down all major electrical components if the ambient
+temperature within the facility exceeds a certain predetermined threshold level (due to fire) is an
+example of a fail-safe system.
+176. A: The robustness of hazardous waste shipping containers and casks has been thoroughly
+tested over the years primarily at U.S. national laboratories such as Sandia National Laboratory and
+Los Alamos National Laboratory. Evaluation modes have included thermal (high temperature), high
+impact, and drop testing.
+177. C: The two federal agencies that are primarily responsible for regulating the placement,
+storage, and amounts of combustible materials within industrial settings are the NFPA and OSHA.
+178. B: A static analysis determination is made for a piece of piping that renders the following
+results:
+The overall compression force on the pipe ≈ 50 N.
+According to laser-optic results, the pipe has not contracted (or altogether moved) by any
+discernible amount.
+Then a conclusion can be drawn that the pipe’s outward directional force should (also) be equal to
+about 50 N given that the pipe has had no record of discernible movement. This conclusion is in
+accordance with Newton’s Third Law as well as the statics-based fact that the sum of the forces in
+all directions must be equal to zero if there is no movement by a subject object.
+179. A: A negative safety margin value is theoretically correlated with a high risk of failure. A
+failure would hypothetically be expected to occur before a system or component reaches its
+predetermined design limit or load.
+180. B: There are 10 individual OSHA regional offices presently in existence across the United
+States. They are located in Boston, MA; New York City, NY; Philadelphia, PA; Atlanta, GA; Chicago,
+IL; Dallas, TX; Kansas City, MO; Denver, CO; San Francisco, CA; and Seattle, WA.
+181. A: There are several unique characteristics regarding regulation criteria of large-quantity
+hazardous waste generators (LQGs). These include no designated limit of the quantity of HAZMAT
+that is allowed to be stored at a specific time; the generation of > 1 kg of acute HAZMAT per month;
+an allowed maximum storage time of 90 days or less for most wastes; and a generation rate of >
+1,000 kg per month for ordinary waste classifications.
+182. C: In a fault-tree analysis, the term or gate “XOR” represents a condition whereby an output
+event occurs if exactly one input event occurs. Other terms or gates used in fault-tree analyses
+include: “AND,” “OR,” “Inhibit,” “Voting-OR,” and “Priority-AND.”
+67
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 70 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+183. D: Given that farming family injuries do not officially fall under the jurisdiction or auspices of
+OSHA, it is not necessary for any regulatory agency to be notified. David, may, however, follow any
+local county protocols for logging or tracking the incident if the associated agricultural cooperative
+agreement so requires it. Otherwise, no notifications should be made to any organization.
+184. B: Per OSHA’s 29 CFR 1910.147, Control of Hazardous Energy, a hot tap is defined as a
+maintenance or servicing procedure that entails pressurized welding operations for installing
+connections or other support equipment.
+185. C: An injury to the gonads would be categorized as a privacy case on an OSHA 300 form
+whereby the employee’s name is not ultimately recorded. Other scenarios that could qualify as
+privacy cases include a mental illness or condition, an injury or illness resulting from a sexual
+assault, HIV, TB, hepatitis, and potentially contaminated needle-stick injuries.
+186. B: Most portable fire extinguishers must be hydrostatically tested once every 5 years. There
+are certain types of extinguishers (e.g., dry chemical or steel shell, halon, and dry powder),
+however, that need only be hydrostatically tested once every 12 years.
+187. D: A qualitative fit test for a respirator is conventionally defined by a pass-or-fail evaluation to
+assess the level of fit adequacy based on a wearer’s response to a testing agent. In contrast, a
+quantitative fit test is typically defined as an assessment to determine the suitability of a respirator
+by measuring the amount of leakage into the device.
+188. C: A turtle suit (or a water-armor protective suit) is a form of PPE that is often worn to protect
+against the hazards of high-pressure water blasting. The suit adequately protects the legs, arms,
+and chest from glancing water blows for pressures up to 40,000 psi.
+189. D: An employee who is regularly subjected to several potential hazards, including strong
+inorganic acids (e.g., hydrochloric, hydrofluoric, or nitric), excessively loud noise (e.g., > 125 dB,
+unprotected), and falling objects should be required to adhere to the following PPE regimen in the
+performance of his or her regular daily activities: coveralls, safety goggles, earplugs and earmuffs,
+butyl rubber gloves, and a standard hard hat that can accommodate earmuffs.
+Coveralls should be worn at all times to help protect from acid splashes to the torso or limbs; safety
+goggles should be worn at all times to protect the eyes from acid splashes; and earplugs and
+earmuffs should be worn due to double protection being required to lower noise levels down to
+below 8-hr TWA hazardous thresholds. According to ANSI guidance, gloves made of butyl rubber
+are usually best suited for protecting workers from strong, inorganic acids (e.g., hydrochloric,
+hydrofluoric, and nitric); and a hard hat (which can accommodate earmuffs worn inside) should
+always be worn to protect the head against falling objects.
+190. C: Ground-fault circuit interrupters (GFCIs) are normally set at about 5 mA to adequately
+protect workers from electrocution scenarios. The GFCI works by detecting potential leakage
+current (a ground fault) in a circuit and then ultimately switches off the current in the circuit. This
+leakage detection is usually via an exposed person who is just beginning to be shocked; once the
+threshold of 5 mA leakage (loss) is attained, the GFCI switches off the circuit’s current in entirety.
+191. D: There are several case scenarios that could be categorized as exempt from workers’
+compensation coverage. These may include such instances as an individual who purposefully elect
+not to be covered; an individual employed for fewer than 20 consecutive workdays within an
+employer’s private home; an individual performing services in return for nonmonetary
+68
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 71 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+compensation (e.g., aid or sustenance) provided by a religious organization or charity; or any
+person directly employed in agriculture.
+192. B: According to Abraham Maslow’s Hierarchy of Needs, personal facets such as creativity,
+problem solving, morality, spontaneity, and lack of prejudice all fall under the human need of self-
+actualization.
+193. C: A permissive democrat-type leadership personality typically permits employees to
+contribute to decision-making processes and affords subordinates a considerable degree of latitude
+in carrying out their tasks. Other types of leadership personalities include permissive autocrat
+(semi-liberal style), directive democrat (semi-liberal style), and directive autocrat (prototypical
+micromanagement style).
+194. D: The Epidemiological Theory of Accident Causation asserts that accidents can, in large part,
+be caused or prevented by the manner in which situational characteristics interplay with
+predispositional characteristics. Situational characteristics essentially depict the current state of
+affairs that workers are engaged in at a particular juncture, whereas predispositional
+characteristics are those that essentially depict the emotional states and moods of their colleagues.
+195. C: The multilinear events sequencing (MES) method usually employs a time line to illustrate
+the sequence of events or occurrences that contributed to or was the direct cause of an event.
+196. C: Retention rate efficiencies vary greatly in humans depending upon what mode of teaching
+or training is employed for a set of material. Studies have repeatedly shown that teaching or
+instructing others typically results in the highest material retention efficiency rates by a
+considerable margin. Employing discussion groups, utilizing demonstrations, and audiovisual
+training methods have also shown to be effective tools for yielding high retention but not as high as
+that attained through the teaching or training of others.
+197. D: An extremely dangerous shortcut that is all too often taken with pneumatic nail guns and
+hammers is the taping or fastening down of triggers and switches to attain automatic (effortless),
+repeated actuation of such tools. Numerous puncture accidents have occurred, particularly in the
+construction industry, due to this hazardous tactic.
+198. A: Oxygen cylinders in storage shall be separated from fuel gas cylinders (or combustible
+materials) by a minimum distance of 20 ft or by a noncombustible barrier at least 5 ft in height that
+has a fire-resistance rating of at least 1.5 hrs.
+199. B: For a worker to be permissibly located on a moving (mobile) scaffold that has a base width
+of 4 ft, the minimum required height for that scaffold must be at least 8 ft. OSHA requires at least a
+2:1 height-to-base ratio for mobile scaffolds.
+200. C: A hard hat’s safety zone is defined as the space or clearance between the hat’s shell and its
+suspension. The typical minimum recommended measurement for this space or clearance is 1 in.
+Many hard hat manufacturers, however, recommend a space of 1.25 in for additional safety margin.
+69
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+

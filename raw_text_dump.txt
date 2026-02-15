@@ -1,0 +1,2982 @@
+Get All HSE Resources at One Place (www.hsezip.com)
+Certified Safety
+Professional
+Practice Questions
+Get All HSE Resources at One Place (www.hsezip.com)
+T C
+ABLE OF ONTENTS
+CSP PRACTICE TEST _____________________________________________________ 1
+ANSWER KEY AND EXPLANATIONS _________________________________________ 39
+Get All HSE Resources at One Place (www.hsezip.com)
+CSP Practice Test
+1. Within the realm of statistics, which of the following is TRUE with regard to the
+fundamental counting principle?
+a. When the principle is applied for a given sample, the standard deviation is always equal to
+the variance.
+b. The order or position of an occurrence always affects the overall probabilistic outcome of
+an entire event.
+c. The number of possible permutations is always greater than the possible number of
+combinations.
+d. The number of possible permutations is always less than the possible number of
+combinations.
+2. Which of the following sets of colors is associated with the NFPA 704 Diamond System for
+the labeling of hazardous materials?
+a. Magenta, green, black, gold
+b. Blue, green, orange, white
+c. Red, yellow, green, black
+d. Yellow, blue, red, white
+3. A company is developing a new pharmaceutical product to help counteract the effects of
+mercury poisoning. Before it comes to market, however, the company must first seek
+approval by which of the following U.S. government agencies?
+a. U.S. Department of Health and Human Services (DHHS)
+b. U.S. National Institute for Drug Abuse (NIDA)
+c. U.S. Consumer Product Safety Commission (CPSC)
+d. U.S. Food and Drug Administration (FDA)
+4. Which of the following is NOT typically categorized as a “class” of hazard within an
+industrial or process setting?
+a. First-responder conveyance
+b. Falling of loads
+c. Handling of materials
+d. Materials being in motion
+5. If an injured worker wishes to file litigation against a company he or she feels is
+responsible for his or her maladies, which of the following attorneys should he or she most
+likely consult?
+a. Compensatory tort
+b. Criminal
+c. Civil
+d. OSHA attorney-general delegate
+6. What are the two different categories of workers’ compensation laws?
+a. Antecedent and post-factual
+b. Compulsory and elective
+c. Standard and closure
+d. Transitional and disability
+1
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+7. Which of the following is NOT typically regarded as a primary safety hazard associated
+with the use of powered vehicles in a work area?
+a. Potential carbon monoxide overexposure
+b. Exceeding load limits
+c. Blind spots
+d. Operator physical overexertion
+8. What is the conventional definition of a blasting agent?
+a. A material that demonstrates adequate stability in a stand-alone condition yet possesses
+enough exothermic potential to prompt an explosion when initiated
+b. A material, such as TNT, designed to detonate upon a threshold catalyst
+c. A material designed to explode upon mechanical impact
+d. Any solid or liquid substance that will easily ignite above standard temperature and
+pressure (STP) conditions
+9. Which of the following is NOT a type of conveyor mechanism that is primarily used for
+transporting bulk products or materials within an industrial setting?
+a. Belts
+b. Buckets
+c. Winches
+d. Rollers
+10. If a very large construction company experiences 369 work-related deaths, worldwide,
+over a recent 10-year span, about what number of them would likely be attributable to falls?
+a. 30
+b. 80
+c. 150
+d. 210
+11. What device is commonly used in industrial settings to measure potentially hazardous
+noise levels?
+a. An acoustics meter
+b. A noise dosimeter
+c. An audiometer
+d. A gain-differential inductance meter
+12. Which of the following is NOT a typical injury or illness-related metric that is regularly
+tracked by federal agencies?
+a. Frequency of work-related retaliation events
+b. Frequency of work-related deaths
+c. Frequency of job transfers
+d. Frequency of restricted duty
+13. Which of the following terms is typically NOT associated with the domain of gas or vapor
+sampling?
+a. Colorimetry
+b. Chromatograph
+c. Centrifugal separation
+d. Grab sample
+2
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+14. Which of the following is NOT inclusive of the OSHA Classification System for
+Occupational Illnesses and Conditions?
+a. Respiratory-related disorders or conditions
+b. Radiation-related disorders or conditions
+c. Skin-related disorders or conditions
+d. Blunt trauma-related disorders or conditions
+15. U.S. citizen employees who live and work in the United States have a legal right to
+___________ certain records under their name.
+a. inspect
+b. replace
+c. purge
+d. transfer
+16. A CSP and an industrial hygienist determine that the intensity of a certain physical
+parameter or phenomenon within a work area measures two footlamberts. Which of the
+following is being measured?
+a. Gamma radiation
+b. Ultraviolet radiation
+c. Microwaves
+d. Visible light
+17. To counteract high-pressure environments (e.g., that seen during deep underwater
+diving), which of the following tactics is typically implemented to counteract the potential
+effects of nitrogen narcosis?
+a. Replacing nitrogen with inert surrogate gases, such as helium
+b. Increasing supplied-air oxygen levels by 0.5 percent for every 10 ft of depth
+c. Requiring an ascension rate of at least 10 ft per min
+d. Limiting underwater excursions to less than 1 hr for depths greater than 50 ft
+18. Per the U.S. Clean Air Act, which of the following outdoor concentration readings would
+be considered a violation of National Ambient Air Quality Standards (NAAQS)?
+a. 0.5 ppm of carbon monoxide over an 8-hr period
+b. 0.05 ppm of ozone over an 8-hr period
+c. 1.0 μg/m3 of lead over a 3-month period
+d. 10 ppb of sulfur dioxide over a 1-hr period
+19. Which of the following functional-notation representations would depict a discount
+factor for a present dollar value given a future value at a 3 percent annual interest rate over
+7 years?
+a. (F|P, 7, 3%)
+b. (P|F, 3%, 7)
+c. (P|F, 7, 3%)
+d. (F|P, 3%, 7)
+3
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+20. What is a typical three-step process that should always be employed in industrial
+settings if there has been a hazardous material(s) spill?
+a. Inspection, notification, cleanup
+b. Isolation, mitigation, remediation
+c. Evacuation, notification, remediation
+d. Safety, containment, notification
+21. Acquired data from two distinct and separate variables is known as which of the
+following?
+a. Bimodal data
+b. Bivariate data
+c. Tandem-statistical corollaries
+d. Quadratic-bipolar data
+22. In this data set (3, 7, 9, 12, 26, 32, 45, 58), which of the following is the mode?
+a. 19
+b. 24
+c. None
+d. 0
+23. If the illustration shown here represents a standard normal distribution, approximately
+what percent of the total area below the curve is comprised of [(–2sd < x < –sd) + (0 < x <
+sd)]?
+a. 44 percent
+b. 48 percent
+c. 52 percent
+d. 56 percent
+24. Which of the following U.S. federal agencies is responsible for distributing statistical
+information pertaining to job-related injuries and illnesses?
+a. U.S. Occupational Safety and Health Administration
+b. U.S. Department of Health and Human Services
+c. U.S. Bureau of Labor Statistics
+d. U.S. National Institute of Occupational Safety and Health
+4
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+25. An ex-employee is looking to pursue legal action against his or her company for alleged
+wrongdoing. The company, in turn, is planning on defending itself based upon the fellow-
+servant rule. Which of the following grievance subject areas is the employee pursuing legal
+action for?
+a. Wrongful termination
+b. On-the-job injury
+c. Racial discrimination
+d. Sexual harassment
+26. Which agency or organization is typically responsible for setting the rate premiums that
+employers will pay for workers’ compensation insurance?
+a. U.S. Department of Commerce
+b. U.S. Department of Labor
+c. National Council on Compensation Insurance
+d. National Commission on Banking and Insurance Fiscal Regulation
+27. Sound octaves are conventionally characterized by _______________ with sequential octaves
+normally differing by a factor of _______________.
+a. wavelength, 10
+b. pitch, 100
+c. frequency, 2
+d. tone, 10
+28. If a pregnant employee is concerned about her child being exposed to potential
+teratogenic sources, which of the following should she avoid?
+a. Microwave radiation
+b. PCBs
+c. Coffee
+d. Acetic acid
+29. Which of the following is typically NOT a potential mode of particulate contamination?
+a. Aerosols
+b. Gases
+c. Mists
+d. Fumes
+30. Which of the following is usually NOT regarded as a hazard typically related to the use of
+high-pressure receptacles and containers?
+a. Pressures exceeding design safety levels
+b. Higher fire risks due to enhanced oxygen levels in certain containers
+c. Container failure due to corrosion
+d. Use of containers without always venting excess buildup
+31. A monitoring system should be employed in tandem with a(n) _______________ system to
+alert workforces of potentially hazardous conditions being at hand.
+a. warning
+b. emergency response
+c. shutdown
+d. actuator
+5
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+32. Which of the following is NOT a typical telltale sign that a chemical reaction may be
+ensuing as the result of a spill?
+a. Emission of smoke or vapor
+b. Evaporation or sublimation
+c. Bubble formation
+d. Unusual odors
+33. What is a financial covenant typically between an individual (e.g., an investor) and a
+corporate or government body that guarantees to repay an investment, plus accrued
+interest, at a predesignated time is known as?
+a. A bond
+b. A certificate of deposit
+c. An equity agreement
+d. A margin call
+34. Which of the following graphical tools is typically regarded as the MOST useful for clearly
+illustrating data groups that may fall within a particular value range?
+a. Histogram
+b. Bar graph
+c. Stem-and-leaf plot
+d. Box-and-whisker plot
+35. Which of the following statistical parameters is NOT utilized if one wishes to calculate a
+measure of dispersion for a given data set?
+a. Variance
+b. Standard deviation
+c. Range
+d. Median
+36. What is the approximate standard deviation (σ) for the following “entire population”
+data set?
+(2, 7, 11, 24, 44, 62, 79, 81, 105, 120, 139, 162)
+a. 39
+b. 52
+d. 54
+d. 70
+37. Which of the following is NOT a typical shape or characterization of a frequency curve?
+a. Multimodal
+b. Skewed
+c. J-shaped
+d. Step functional
+38. If a population of 100,000 people incurred an “LD50” exposure to radiation or chemicals,
+approximately how many acute deaths in that population would be expected?
+a. 0
+b. 2,000
+c. 50,000
+d. 100,000
+6
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+39. Which of the following is a detailed and systematic process to evaluate potential risks
+associated with the design and operation of a multifaceted, complex technology?
+a. Probabilistic risk assessment
+b. Failure modes and effects analysis
+c. Hazards assessment
+d. Documented safety analysis
+40. A group of individuals meets within an organization to discuss several potential tools
+that may be used for assessing a wide range of workplace system hazards. One of the
+individuals, in particular, insists that the best tool to employ for such a purpose is a
+“simultaneous, timed-events plotting analysis” and has successfully utilized them
+throughout his or her career. What is the MOST likely area of expertise of this individual?
+a. Root-cause analysis
+b. Probabilistic risk assessment
+c. Industrial engineering
+d. Safety engineering
+41. Within the specific quality assurance domains of audits and inspections, what does the
+acronym CAQ typically stand for?
+a. Certification of Absolute Qualification
+b. Condition Adverse to Quality
+c. Codified Audit Query
+d. Correction to Annotated Quantity
+42. An individual who is employed by the U.S. Department of Defense has recently been
+granted a “secret” level security clearance. Per U.S. NISPOM protocols, which of the following
+document cover color combinations would the employee be allowed to access?
+a. Brown, orange, red
+b. Orange, amber, green
+c. Red, green, blue
+d. Blue, gray, green
+43. A craft employee who was not paying attention while working with a circular saw lost
+two fingers in an accident. Corporate Health and Safety Management reported the accident
+to OSHA approximately 40 hours after the incident. According to OSHA 29 CFR 1904.39, the
+company is
+a. in violation of the allowable reporting time frame.
+b. in compliance with the allowable reporting time frame.
+c. in the probation zone of the allowable reporting time frame.
+d. not required to file an OSHA report but is instead required to file with the U.S. Department
+of Labor.
+44. In a total workforce of 200 people (who each work 2,000 hours over a calendar year), if
+there are 10 total cases of missed workdays, restricted duty, or transfer due to work-related
+injuries over that calendar year, what is the resulting DART rate?
+a. 10
+b. 5
+c. 20
+d. 2
+7
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+45. A bar graph most closely resembles which of the following illustrative tools?
+a. A box-and-whiskers graph
+b. A stem-and-leaf plot
+c. A histogram
+d. A rectangular-regression plot
+46. A job hazard analysis is performed for an upcoming task that is to take place within a
+very high radiation area. What type of instrumentation would be most appropriate for use
+by health physicists (or rad-techs) for determining actual radiation levels of the area before
+workers enter to perform their assigned task?
+a. A teletector
+b. A Geiger counter
+c. A multichannel analyzer
+d. A thermoluminescent dosimeter (TLD)
+47. A “fishbone diagram” is also known as which of the following?
+a. A failure modes and effects analysis
+b. An event tree study
+c. A hazard and operability study
+d. A cause-and-effect analysis
+48. The 50th percentile value of a normal distribution is also always denoted as which of the
+following?
+a. Mean
+b. Median
+c. Mode
+d. The bisecting point
+49. Which of the following audit-finding classifications is usually considered the most
+serious?
+a. Conditions adverse to quality
+b. Corrective action issue
+c. Near miss
+d. Tier-1 infraction
+50. Per OSHA directive, VPP Merit-status employers are expected to commit to the
+pursuance of star status within a period of how many years?
+a. 1
+b. 2
+c. 3
+d. 4
+51. A waste storage receptacle containing sulfuric acid from used batteries should have
+which of the following waste code designation numbers?
+a. D-001
+b. D-002
+c. D-003
+d. D-004
+8
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+52. Which of the following should be regularly implemented or reviewed in coordination
+with preliminary task walk-downs and pre-job briefings prior to the commencement of
+activities?
+a. Job safety analysis (JSA)
+b. Task self-assessment (TSA)
+c. Probabilistic risk assessment (PRA)
+d. Hazard and operability study (HAZOP)
+53. Which of the following is NOT an established component of NIOSH’s lifting equation?
+a. Lifting index (LI)
+b. Recommended weight limit (RWL)
+c. Leverage stability coefficient (LSC)
+d. Load constant (LC)
+54. A floor surface that has a moderate slip potential has a coefficient of friction approaching
+which of the following values?
+a. –0.8
+b. –0.5
+c. 0.4
+d. 0.8
+55. In the following Cartesian data-point set, which of the following points would be
+considered an anomaly compared to the others? [(0.5, 1.4), (2, 6), (4, 11.8), (7, 20), (9, 22),
+(12, 37), (15, 45.8), (17, 50)]
+a. (9, 22)
+b. (0.5, 1.4)
+c. (15, 45.8)
+d. None
+56. Which of the following is a TRUE statement with regard to root-cause analyses (RCAs)?
+a. There can only be one tangible underlying root cause outcome for any given RCA.
+b. An RCA is only performed after an event has occurred.
+c. Historical RCAs should not be utilized for predicting possible events before they occur.
+d. Incident management processes and RCAs are normally integrated and implemented in
+tandem.
+57. If a calculated statistical variance for a sample of data values is found to be
+approximately 2.76, what is the associated standard deviation value correlated to that
+variance?
+a. 1.66
+b. 7.62
+c. 1.38
+d. 5.52
+9
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+58. A masonry construction company regularly employs the use of a powder that is
+comprised of 5 percent silica. What would be its calculated PEL (in ppm) when in use?
+a. 2.76 ppm
+b. 1.99 ppm
+c. 1.41 ppm
+d. 0.83 ppm
+59. Xylene is being generated within a work area per the following contributory parameters:
+V = 100,000 ft3, Q’ = 2,000 cfm, and G = 3 cfm, whereby V is the volume of the work
+area; Q’ is the air flow rate in the work area divided by a design distribution
+constant; and G is the contaminant generation rate. How much time will elapse
+before the xylene concentration in the work area reaches 150 ppm?
+a. 5.27 min
+b. 7.64 min
+c. 10.29 min
+d. 13.88 min
+60. For a worker deployed outdoors with a solar load, what is the calculated wet-bulb
+temperature if the globe temperature is 85°F, the dry-bulb temperature is 92°F, and the wet-
+bulb globe temperature index is 103°F?
+a. 80.4°F
+b. 91.2°F
+c. 93.3°F
+d. 109.7°F
+61. Given the following set of data, what is the calculated correlation coefficient between the
+two variables x and y?
+x y
+3 2
+5 4
+8 6
+11 9
+14 13
+16 15
+Total 57 49
+Average 9.5 8.2
+a. 1.000
+b. 0.995
+c. 0.990
+d. 0.985
+62. If the partial-pressure of Gas = 12 atm, Gas = 28 atm, and Gas = 50 atm, what is the total
+x y z
+calculated pressure of the mixture of Gases x, y, and z?
+a. 30 atm
+b. 50 atm
+c. 90 atm
+d. None of the above
+10
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+63. A steel wire is measured to have an electrical resistivity of 20 ohm-m. What is the
+associated conductivity of this wire?
+a. 0.05 siemens-m-1
+b. 20 siemens-m-1
+c. 1.0 siemens-m-1
+d. 0 siemens-m-1
+64. A company’s tool and die fabrication process requires a certain mold to be consistently
+manufactured at a 3.25-in thickness. Seven random mold samples were collected and found
+to have the following thickness measurements (in in): 3.21, 3.28, 3.32, 3.36, 3.25, 3.29, and
+3.22. What is the calculated “t” value for the collected samples?
+a. 1.356
+b. 1.279
+c. 1.183
+d. 1.095
+65. If a system (X) has two (and only two) codependent subsystems (y and z) required for its
+operation, with one having a 0.0001 failure rate and the other having a 0.001 failure rate,
+what is the overall probability of failure for the entire system (X)?
+a. 0.001
+b. 0.0001
+c. 0.0011
+d. 0.00055
+66. If the pH of a sulfuric acid solution used in an industrial setting must be below 1.5 to burn
+through worker PPE, what must the minimum associated hydrogen-ion concentration of that
+acid be to reach such a pH?
+a. 1.27
+b. 0.76
+c. 4.48
+d. 0.032
+67. A safety training examination given to 50 students showed a mean score of 74.3 percent,
+with a standard deviation of 6.9. Only one student scored exactly an 80 percent on the exam.
+If a normal distribution is assumed, how many students received a higher score than this
+one student?
+Z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.7 0.7580 0.7611 0.7642 0.7673 0.7704 0.7734 0.7764 0.7794 0.7823 0.7852
+0.8 0.7881 0.7910 0.7939 0.7967 0.7995 0.8023 0.8051 0.8078 0.8106 0.8133
+0.9 0.8159 0.8186 0.8212 0.8238 0.8264 0.8289 0.8315 0.8340 0.8365 0.8389
+a. 8
+b. 10
+c. 12
+d. 14
+11
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+68. What is the calculated numerical difference (i.e., delta) between the upper-control limit
+(UCL) and lower-control limit (LCL) for an accident control-chart distribution with the
+following statistical parameters?
+Mean = 6.50
+Standard deviation (σ) = 0.75
+Number of allowable standard deviations from the mean (z) = 3
+a. 4.5
+b. 2.25
+c. 1.5
+d. 1.125
+69. In this right triangle, the tangent (TAN) of angle <BAC is equal to which of the following?
+a. (0.50 ÷ 1.414)
+b. x ÷ 8
+c. [(8)1/2] ÷ x
+d. (6.93 ÷ 4)
+70. Which of the following would have a larger “failure-per-hr” rate: a car engine component
+operating for 10,000 hours with an established reliability of 0.998 or an aircraft component
+operating for 20,000 hours with an established reliability of 0.997?
+a. The car engine component would have a larger rate.
+b. The aircraft component would have a larger rate.
+c. The failure-per-hr rates would be identical.
+d. It is not possible to determine from the information provided.
+71. The following series of force equations characterizes a static hoist apparatus used in the
+workplace for a given task:
+2x + x – 4x = 6 N
+1 2 3
+5y = 3.5 N
+1
+x = 2y
+3 1
+What is the calculated force of x given that x ≠ 0?
+2 1
+a. 2.250 newtons
+b. 5.167 newtons
+c. 14.429 newtons
+d. cannot be determined from the information provided
+72. If over a 5-year span, a large chemical processing company sees a total of 425 worker
+accidents or injuries across the United States, according to H. W. Heinrich, approximately
+how many of these accidents would likely be the result of direct actions of individuals?
+a. 190
+b. 265
+c. 325
+d. 375
+12
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+73. What is an endeavor to uncover and reduce hazards that may be at hand for product or
+system users as well as to those who are accountable for their maintenance conventionally
+known as?
+a. Preliminary hazard analysis
+b. Occupational health hazard assessment
+c. Documented safety analysis
+d. Technical safety requirement evaluation
+74. In a fault-tree sequence, Events A, B, and C have estimated probabilities (frequencies) of
+occurrence equal to 0.1, 0.01, and 0.005, respectively. For a resulting system failure to occur
+(Event D), Events A and B or Events A and C must transpire. According to the fault-tree’s
+analysis, what is the approximate overall probability that Event D may occur?
+a. 0.0015
+b. 0.0000050
+c. 0.0010
+d. 0.1150
+75. A vehicle is moving along at a steady speed of 50 m/s. The driver then notices a
+pedestrian up ahead and cautiously elects to slow down at a rate of –6 m/s. He or she
+continues the deceleration for 100 m until the pedestrian completely moves out of the
+thoroughfare, at which point he or she begins to accelerate again. What is the vehicle’s speed
+at the point where the driver begins to accelerate again?
+a. 30 mph
+b. 32 mph
+c. 34 mph
+d. 36 mph
+76. A plaintiff has sued a company regarding a wrongful injury he or she allegedly incurred
+from the use of one of its products. During subsequent legal proceedings, the following took
+place: (1) it was conclusively demonstrated that the product was indeed defective; (2) it was
+conclusively demonstrated that the product was defective upon departure of the defendant’s
+stewardship; and (3) it was suggested but not conclusively demonstrated that the defect was
+responsible for the plaintiff's injury. As such, which of the following determinations would
+likely result from the proceedings?
+a. The defendant is found responsible for consumer fraud.
+b. The defendant is found responsible for obligatory culpability.
+c. The defendant is found responsible for strict liability.
+d. None of the above will occur.
+77. Per Mining Safety and Health Administration (MSHA) protocol, what is the calculated
+severity measure (SM) rate for a mining operation that had five lost workdays and 125,000
+hours worked over a given calendar year?
+a. 8
+b. 12
+c. 5
+d. 1.2
+13
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+78. If two separate containers are being simultaneously filled with a chemical at a rate of 2.5
+gal/min, with one container being cylindrically shaped with a diameter of 12 in and a height
+of 24 in, whereas the other is box shaped with dimensions of 16 in x 9 in x 30 in, which one
+will have overflowed after exactly 4 min of filling?
+a. The cylinder container
+b. The box container
+c. Neither
+d. Both
+79. The following list is comprised of hazard scores associated with each of the noted
+categories within a given work area, on a scale from 1 to 10, where 1 depicts a minimal
+hazard and 10 depicts a maximal hazard:
+Hazard Score
+Chemical containment 4
+Noise 3
+Open floor plans / 8
+tripping
+Lighting 1
+Electrical 6
+Fire suppression 2
+Ergonomics 9
+Machinery pinch points 7
+From this data, which of the following can likely be surmised as a TRUE statement?
+a. The measured 8-hr average ambient noise level in the work area is likely in the range of 90
+to 95 dBA.
+b. There are several partially exposed gears, pulleys, and/or belts in the work area that are in
+need of more robust guarding.
+c. The average ambient lighting level in the subject work area is approximately 2 foot-candles.
+d. Most fire extinguishers in the work area are of the incorrect type and are past due for
+inspection.
+80. The half-life of the isotope Cobalt-60 is approximately 5.3 years. If the measured dose
+rate from a subject point source at time = t is 2,000 mrem/hr at a distance of 9 ft,
+0
+approximately how long may one be exposed at a distance of 4 ft at time = t + 16 years
+o
+without exceeding the 10 CFR 20 annual occupational dose limit of 5 rem/year?
+a. 1 hr
+b. 2 hrs
+c. 3 hrs
+d. 4 hrs
+81. Which of the following is larger: the measured area between the function f(x) = 2x3 + x2 –
+5 and the x-axis between the points x = 0 and x = 3 or the area of a circle with a
+1 2
+circumference equal to 25. Note: both the function and the circle are plotted in the same
+Cartesian coordinate system.
+a. The function is larger.
+b. The circle is larger.
+c. Both areas are approximately the same in value.
+d. it is not possible to determine which area is larger from the information provided.
+14
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+82. Which of the following constitutes an example of an involuntary risk scenario?
+a. Driving a car
+b. Eating 3-month-old eggs
+c. Breathing in secondhand smoke
+d. Living on a golf course
+83. A worker was exposed to a hazardous chemical for 4 hrs per day over a 3-day period. One
+month later, the individual was diagnosed with a liver condition that has historically been
+shown to manifest as a result of exposure to this chemical. Which of the following
+characterizations hence most accurately depicts the type of exposure and health effects that
+were incurred by the subject worker for this particular case?
+a. Chronic exposure and localized health effects
+b. Acute exposure and systemic health effects
+c. Chronic exposure and systemic health effects
+d. Acute exposure and localized health effects
+84. In a horizontally oriented fire system (i.e., no elevation throughout the system), water
+flows through a 4-in pipe. The measured head loss in a 500-ft section of the system is 20 ft.
+The pressure at Point A is 30 psi, and the velocity at point A is 8 ft/s. If the velocity at Point B
+is 10 ft/s, what is the pressure at Point B?
+a. 16.8 psi
+b. 19.3 psi
+c. 21.1 psi
+d. 24.7 psi
+85. If a 170-1b worker falls off of a 20-ft-high scaffold, what would his approximate speed (in
+mph) be at ground impact?
+a. 25 mph
+b. 31 mph
+c. 21 mph
+d. 16 mph
+86. A parameter that is conventionally used to measure the quantity of time that an
+unprotected worker may remain in an area that has been infiltrated by a known amount of
+hazardous or toxic gas (or fumes) without suffering any adverse health effects is known as
+an emergency exposure limit (EEL). Most EELs fall into which of the following time-unit
+ranges?
+a. S to min
+b. Min to hrs
+c. Hrs to days
+d. Days to weeks
+87. Which of the following isotopes is both radiologically and chemically hazardous to
+human health?
+a. Lead-208
+b. Argon-40
+c. Mercury-202
+d. Plutonium-239
+15
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+88. The following is a compendium of noise-level measurements within an assessed work
+area over a two-week time span. From the provided data, which of the following conclusions
+should be drawn?
+Measurement Number of Hours Measurement Measurement
+Day Measured Range Average
+1 of 10 6.75 74-81 dBA 77 dBA
+2 of 10 8 67-79 dBA 71 dBA
+3 of 10 3 86-88 dBA 87 dBA
+4 of 10 8 71-92 dBA 79 dBA
+5 of 10 7 81-85 dBA 84 dBA
+6 of 10 3.5 77-80 dBA 78 dBA
+7 of 10 8 58-72 dBA 67 dBA
+8 of 10 6.5 66-70 dBA 69 dBA
+9 of 10 2.25 89-94 dBA 93 dBA
+10 of 10 7.5 75-83 dBA 78 dBA
+a. The work area should be designated as a hazardous noise area as per OSHA 1910.95, with
+mandatory hearing protection PPE always worn.
+b. The work area should be designated as a hazardous noise area as per OSHA 1910.95, with
+hearing protection PPE recommended.
+c. The work area meets the minimum TWA threshold levels of a part-time hazardous noise
+area as per OSHA 1910.95; thus, hearing protection PPE is mandatory for at least 4 hrs per
+workday.
+d. The work area does not meet the minimum TWA threshold levels of a hazardous noise area
+as per OSHA 1910.95, and thus, hearing protection PPE is not mandatory; however, it
+should be recommended.
+89. An industrial worker was recently occupationally diagnosed with the respiratory disease
+Siderosis. Which of the following industries is this worker most likely employed in?
+a. Asbestos remediation
+b. Steelworking
+c. Woodworking
+d. Masonry
+90. How many ppm of air contaminants theoretically make their way all the way through a
+three-stage filter bank with individual respective efficiencies of 90 percent, 95 percent, and
+99 percent?
+a. 50 ppm
+b. 500 ppm
+c. 5 ppm
+d. 53,333 ppm
+91. If a gas at a pressure of 5 psia occupies a volume of 100 cm3 at a temperature of 20°K,
+what will the resultant pressure be if the temperature is increased to 30°K at a volume of
+150 cm3?
+a. 2.5 psia
+b. 5 psia
+c. 7.5 psia
+d. 10 psia
+16
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+92. During a flight in a non-pressurized aircraft, a pilot begins to feel a bit confused, is
+breathing more rapidly, and has a notably higher resting pulse rate. At what altitude range
+(above sea level) is the aircraft likely flying?
+a. 5,000 to 10,000 ft
+b. 10,000 to 15,000 ft
+c. 15,000 to 20,000 ft
+d. Greater than 20,000 ft
+93. If the inhalation dose conversion factor for isotope “X” is 1 rem per curie, and a facility
+that processes this isotope releases 2.22 x 1013 becquerels of it per year, what is the
+resulting annual inhalation dose to a downwind receptor who has a breathing rate of 18.31
+in3 per s and is subjected to an atmospheric concentration dispersion coefficient of 1 x 10–7 s
+per cm3?
+a. 18 mrem
+b. 600 rem
+c. 600 mrem
+d. 18 rem
+94. If a work area has dimensions of 10 m x 10 m x 3 m, what is the shortest amount of time it
+could potentially take for the entire supply of air in the room to (hypothetically) be
+completely exchanged via an air-exchanger HVAC system that operates at a rate of 80 cfm?
+a. 1.6 hrs
+b. 2.2 hrs
+c. 2.9 hrs
+d. 3.4 hrs
+17
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+95. A 48-hr radon survey was conducted in a work area that measured radon concentrations
+every 2 hrs. Given the survey results (in Ci/L) provided in this table, which of the following
+conclusions should be drawn in regard to whether EPA action levels have been exceeded,
+and if they have been exceeded, which of the following measures should be taken?
+Time Concentration (Ci/L)
+1600 (Day 1) 1.2 x 10–12
+1800 (Day 1) 9.3 x 10–13
+2000 (Day 1) 1.8 x 10–12
+2200 (Day 1) 2.7 x 10–12
+0000 (Day 1) 4.3 x 10–12
+0200 (Day 1) 3.8 x 10–12
+0400 (Day 1) 1.9 x 10–12
+0600 (Day 1) 1.3 x 10–12
+0800 (Day 1) 8.8 x 10–13
+1000 (Day 1) 8.1 x 10–13
+1200 (Day 1) 1.1 x 10–12
+1400 (Day 1) 1.4 x 10–12
+1600 (Day 2) 1.3 x 10–12
+1800 (Day 2) 9.9 x 10–13
+2000 (Day 2) 1.5 x 10–12
+2200 (Day 2) 1.1 x 10–12
+0000 (Day 2) 1.6 x 10–12
+0200 (Day 2) 9.5 x 10–13
+0400 (Day 2) 1.3 x 10–12
+0600 (Day 2) 8.5 x 10–13
+0800 (Day 2) 1.0 x 10–12
+1000 (Day 2) 1.2 x 10–12
+1200 (Day 2) 1.3 x 10–12
+1400 (Day 2) 9.6 x 10–13
+a. No category of action level has been exceeded, and no actions are recommended.
+b. The 2 pCi/L threshold is exceeded, and a moderate degree of remedial action should be
+considered.
+c. The 4 pCi/L threshold is exceeded, and a major degree of remedial action should be taken.
+d. The average threshold level far exceeds EPA-recommended standards, and respiratory
+protection should be used by workers.
+96. What is the conventionally established definition for upper flammable limit (UFL) or
+upper explosive limit (UEL) for a gas?
+a. The maximum amount of heat (energy) one mole of gas is able to liberate associated with a
+unit change in temperature equal to 1°K
+b. The highest temperature at which a flammable gas is able to undergo detonation
+c. The highest pressure at which a gas is able to undergo an equilibrium phase change
+d. The highest concentration of gas (or vapor) relative to air at which a material is able to
+ignite
+18
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+97. Steve and Mary both work on an assembly line. Steve, who primarily works near one
+unguarded pulley and three partially guarded belts, never tucks in his shirt and always
+wears a loose-hanging bracelet. Mary, in contrast, who works near 18 fully guarded axles
+and six fully guarded gears, always wears a long, dangling necklace to work, and has long
+hair. From a generic risk perspective, who is seemingly more likely to be involved in a
+“caught-in-a-machine”-related incident?
+a. Steve
+b. Mary
+c. Both Steve and Mary
+d. Not enough information
+98. Which of the following current or voltage combinations would MOST likely result in
+fatality?
+a. 1 amp/1 volt
+b. 0.5 amp/10 volts
+c. 0.15 amp/100 volts
+d. 0.001 amp/1,000 volts
+99. Glassification and ceramification are two modes of immobilization used in the
+disposition of hazardous, mixed, and nuclear wastes. A waste management company has 10
+metric tons (MT) of waste (bulk ρ = 4.8 g/cm3) that it is required to dispose of (by mandate)
+using either or both of these technologies. Cost-benefit analyses show that glassification
+costs $1,000 per cubic ft of waste processed, and ceramification costs about $5,000 per cubic
+ft of waste processed. Which of the following provides an accurate depiction of the total
+projected cost estimate for disposing of the waste in equal (i.e., 50/50) quantities (by
+weight) using both technologies?
+a. $164,392
+b. $220,716
+c. $237,941
+d. $261,855
+100. What are the pressure and associated Reynolds number (Re) range for a pipe with a 6-
+in radius and a laminar flow rate of 1,000 gpm?
+a. 0.269 psi / Re < 2,000
+b. 0.172 psi / Re > 4,000
+c. 0.054 psi / Re < 2,000
+d. 0.028 psi / Re > 4,000
+101. A company physician recommends that an overweight employee implement a weight-
+loss plan to lose 52 lbs. If the employee has been regularly eating 5,000 calories per day and
+exhibits an equilibrium caloric intake level of 2,500 daily calories (the caloric daily intake
+whereby weight remains stable), by what percentage must he or she decrease his or her
+daily caloric intake to lose the target weight over 1 year’s time, assuming that he or she
+burns 2,500 calories per day through normal metabolism and exercise over that year, and
+that 1 ounce of fat is equivalent to 200 calories?
+a. 59.1 percent
+b. 58.2 percent
+c. 57.4 percent
+d. 56.3 percent
+19
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+102. In a given industrial setting, an oscilloscope is employed for accurately calibrating
+electronic equipment. From the associated display provided, which of the following
+characterizations is correct?
+a. Sine wave, amplitude = 4 units, period = 12 units
+b. Cosine wave, amplitude = 2 units, period = 6 units
+c. Sine wave, amplitude = 2 units, period = 2 units
+d. Cosine wave, amplitude = 4 units, period = 1 unit
+103. A 5-m diameter aperture circular antenna emits 1-cm wavelength microwaves at a
+power level equal to 50 W. What is the associated power density level at a distance of 10 m
+from the antenna?
+a. 4.69 mW/cm2
+b. 804 mW/cm2
+c. 9,817 mW/cm2
+d. 12,205 mW/cm2
+104. What is the calculated head of a fluid moving inside of a pipe with a constant flow rate
+of 4 ft/s?
+a. 0.25 ft
+b. 0.625 ft
+c. 1.5 ft
+d. 2 ft
+105. A 10 micro-curie calibration source of X-isotope emits a single 2.5 MeV gamma ray 100
+percent of the time when the isotope undergoes decay. What is the estimated dose rate from
+this source at a straight-line distance away of 1 ft?
+a. 0.000025 rem/hr
+b. 0.00015 rem/hr
+c. 0.0075 rem/hr
+d. 0.010 rem/hr
+20
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+106. What would be the calculated amount of heat released via a standard reaction between
+92 g of pure sodium and 0.072 L of water if approximately 185 kJ/mole is normally released
+in such a reaction?
+a. 1,388 kJ
+b. 1,110 kJ
+c. 740 kJ
+d. 370 kJ
+107. Which of these severity ratings would MOST aptly categorize the following conditions
+after a facility accident event: (1) considerable, but not totally irreparable, damage to
+equipment or systems; (2) two killed workers and 14 injured workers in a workforce of 200;
+(3) operational status or capabilities likely delayed for months; (4) roughly $5 million in
+property damage; and (5) quantities of chemical releases to the environment which exceed
+EPA NESHAP limits by 40 to 50 percent?
+a. Critical
+b. Catastrophic
+c. Acute severe
+d. Beyond design basis
+108. A CSP is attempting to identify an unlabeled chemical within a work area and through a
+process of elimination has narrowed it down to four separate possibilities, with one by far
+being the most likely. He or she only has the chemical’s Safety Data Sheet’s “Exposure
+Controls/Personal Protection” section summary (as shown) available for guidance.
+Engineering Controls:
+Provide robust exhaust ventilation or other engineering controls to keep airborne vapor
+concentrations below their respective threshold limit value. Ensure that eyewash stations
+and safety showers are near workstation locations.
+Personal Protection:
+Gloves, boots, face shield, full suit, vapor respirator—be sure to use an approved or
+certified respirator or equivalent thereof.
+Personal Protection in Case of a Large Spill:
+Gloves, boots, face shield, full suit, vapor respirator—a self-contained breathing
+apparatus should be used to avoid inhalation. Suggested protective clothing might not be
+sufficient against this liquid material; it is recommended a specialist be consulted before
+handling this product.
+Exposure Limits:
+TWA: 0.025 from ACGIH (TLV) [U.S.] SKIN TWA: 0.05 CEIL: 0.1 (mg/m3) from OSHA
+(PEL) [U.S.].
+Inhalation TWA: 0.025 (mg/m3) [UK]. Local authorities should be contacted as
+appropriate for permissible exposure limits.
+From the information provided, which of the following four candidates determined by the
+CSP is most likely the unidentified material in question?
+a. Methyl ethyl ketone
+b. Ammonia
+c. Mercury
+d. Acetone
+21
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+109. Conservatively assuming total replacement of O with CO during respiration, how long
+2 2
+will a rectangular-shaped confined space (with no air circulation, ventilation, or supplied
+air) with dimensions of 10 ft x 8 ft x 6 ft (LxWxH) contain enough breathable oxygen for
+survival if occupied by a worker who has an average breathing rate of 300 cm3/s?
+a. 8.4 hrs
+b. 7.2 hrs
+c. 6.5 hrs
+d. 4.9 hrs
+110. Using the quadratic equation, for the expression 3x2 + 4x – 5 = 0, the solutions for “x”
+would be which of the following?
+a. –0.80, 1.55
+b. 0.64, –1.24
+c. –0.47, –1.27
+d. 0.79, –2.12
+111. Salt (sodium chloride) has a molecular weight equal to 58.44 g. How many molecules
+would there be in a sample of salt that weighs approximately 14.61 g?
+a. 3.012 x 1023
+b. 1.506 x 1023
+c. 6.023 x 1023
+d. 2.409 x 1024
+112. Which of the following series of seven elements can only exist as diatoms (dual-atoms)
+in nature when they are standing alone? In addition, which of these has the highest level of
+electronegativity (EN) in the entire periodic table?
+a. Hydrogen, helium, argon, nitrogen, oxygen, iodine, bromine—iodine has highest EN.
+b. Hydrogen, nitrogen, oxygen, iodine, bromine, chlorine, fluorine—fluorine has highest EN.
+c. Oxygen, helium, nitrogen, argon, radon, iodine, chlorine—chlorine has highest EN.
+d. Lithium, boron, magnesium, phosphorous, fluorine, chlorine, xenon—phosphorous has
+highest EN.
+113. An employee is exposed to carbon monoxide (CO) concentrations of 100 ppm for 1 hr,
+500 ppm for 2 hrs, and 750 ppm for 15 min. What is the resulting time-weighted-average
+(TWA) of these exposures?
+a. 152 ppm
+b. 288 ppm
+c. 396 ppm
+d. 450 ppm
+114. If an 8-hr PEL for a hazardous respirable dust is 20 mg/m3, what is the associated PEL
+for an employee working a 10-hr shift?
+a. 24 mg/m3
+b. 20 mg/m3
+c. 16 mg/m3
+d. 12 mg/m3
+22
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+115. A liquid mixture contains 50 percent methyl alcohol, 35 percent methyl ethyl ketone,
+and 15 percent acetone. The respective lower flammability limits of the individual chemicals
+are 1.5 percent, 1.1 percent, and 0.75 percent. What is the overall lower flammability limit
+(LFL) for the entire mixture?
+a. 0.79 percent
+b. 1.25 percent
+c. 0.96 percent
+d. 1.17 percent
+116. What is the calculated approximate recommended weight limit (RWL) in lbs that has a
+load constant equal to 51 lbs; a horizontal multiplier equal to 0.75; a vertical multiplier
+equal to 0.90; a distance multiplier equal to 0.87; an asymmetric multiplier equal to 0.85; a
+frequency multiplier equal to 0.45; a coupling multiplier equal to 0.95; and a transitional
+multiplier equal to 0.70?
+a. 24 lbs
+b. 8 lbs
+c. 37 lbs
+d. 11 lbs
+117. Which of the following two noise scenarios yields a higher noise level at a distance of 30
+ft? Scenario 1: a 100 dB noise that is heard 3 ft away from its source
+Scenario 2: a 120 dB noise that is heard 1 ft away from its source
+a. Scenario 1
+b. Scenario 2
+c. Both
+d. Cannot be determined from the information provided
+118. What are the equivalent polar-coordinates of the Cartesian-plotted point (6, 4)?
+a. (8.27, 39.4°)
+b. (7.21, 33.7°)
+c. (8.27, 50.6°)
+d. (7.21, 56.3°)
+119. What is the minimum required air sampling volume for a gas that has an LOQ (range) of
+5.2–65.7 micrograms and a target concentration of 880 ppm?
+a. 0.031 L
+b. 0.016 L
+c. 0.0047 L
+d. 0.0024 L
+120. Per OSHA 29 CFR 1910.95, which of the following noise exposure scenarios is beyond
+specified limits required of the standard?
+a. 1 hr at 100 dBA
+b. 30 min at 115 dBA
+c. 4 hrs at 90 dBA
+d. 2 hrs at 95 dBA
+23
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+121. An industrial organization is in the process of acquiring a new Class-III biological safety
+cabinet, which is the highest safety classification level available. The following is a list of
+technical specifications sent by a candidate cabinet vendor. The resident CSP, safety
+manager, and industrial hygienist all note one major flaw or omission in the specification
+list.
+Technical Specification Summary for Acme Corporation—Level III BioCab—Model #
+2A6535001CM
+Arm-length rubber gloves
+Provides excellent physical protection to workforce
+ASTM-rated at 90 percent negative pressure and 95 percent gas-tight efficiency
+Sealed front panel
+Air drawn into cabinet through HEPA filtration system
+Dimensions: 80 in x 48 in x 36 in
+Double-welded steel frame and casing
+ASTM-rated lead-glass windows
+Double-gasket O-ring seal design at outlets
+Inflow velocity 150 fpm
+Which of the following likely denotes the apparent inadequacy?
+a. 90 percent negative pressure and 95 percent gas tight efficiency ratings
+b. Arm-length rubber gloves
+c. The 150 fpm inflow velocity
+d. Lead-glass windows
+122. Per the information provided, which of the following substances would have the highest
+heat of combustion in these case scenarios?
+a. 4,600 cal emitted by the combustion of one mole of Na-23
+b. 908 cal emitted by the combustion of 0.1 lb of helium
+c. 257 cal emitted by the combustion of 1 g of hydrogen
+d. 10 kilocalories emitted by the combustion of 2.5 moles of sulfuric acid
+123. What is the simplified solution of the following?
+(i4 + 2i3 – 5i2 – 4i – 1)2
+a. 36i + 8
+b. –60i – 11
+c. –48i +20
+d. 12i
+124. According to NFPA criteria, which of the following combustible liquid classes strictly
+exhibits flash points that are ≥200°F?
+a. Class IA
+b. Class IC
+c. Class II
+d. Class IIIB
+24
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+125. What is the calculated wind-chill temperature for an air temperature of 20°F and a wind
+speed of 15 mph?
+a. 12.4°F
+b. 6.2°F
+c. 3.1°F
+d. 1.5°F
+126. What is the kinetic energy of a 9,000-lb forklift moving at a speed of 5 mph?
+a. 40.6 kJ
+b. 20.3 kJ
+c. 10.2 kJ
+d. 5.1 kJ
+127. If a company borrows $1 million to start a business, how much will the entire loan
+actually cost the business over a repayment period of 10 years if the lender charges a 4
+percent interest rate compounded monthly?
+a. $1,363,298
+b. $1,490,833
+c. $1,622,916
+d. $1,804,552
+128. According to U.S. Bureau of Labor statistics, what accident category normally accounts
+(by far) for the highest fatality rates across all industries (approximately 40 percent)?
+a. Falls
+b. Electrocutions
+c. Contact with equipment or objects
+d. Transportation-related incidents
+129. The three fundamental categories of risk management (process) controls are
+________________, _______________, and _________________.
+a. physical, educational, avoidance
+b. visual, procedural, mitigative
+c. sensory, tactile, reflexive
+d. precursory, process, serial
+130. The density of Material-X is equal to approximately 3.5 g/ml. What is the specific
+gravity of Material-X?
+a. 0.70
+b. 1.75
+c. 3.5
+d. Cannot be determined from the information provided
+131. What are human cycles that are believed to affect behavior every 25 to 30 days and can
+influence facets such as intellect, logic, emotions, strength, and stamina known as?
+a. Human performance variants
+b. Biometrics
+c. Biorhythms
+d. Autonomic frequency parametrics
+25
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+132. Block-and-tackle equipment and devices are regularly used in industrial settings for
+lifting heavy loads. An empirical formula of F = W ÷ x is typically employed for depicting the
+relationship between the vertical force (F) required to lift the weight (W) of the load. The “x”
+in the formula, however, is supposed to represent which of the following?
+a. The gravitational acceleration constant
+b. The number of times the connected chain or rope passes between the two ends
+c. The static equilibrium constant accounting for all three dimensions (x, y, and z)
+d. None of the above
+133. Which of the following pairs of computer software systems often work best in tandem
+for optimally improving safety and minimizing hazards in the workplace?
+a. Database management systems and computer-aided-design systems
+b. DART and CAIRS database systems
+c. JOBHAZ and ARCJOB safety assessment models
+d. Failure modes and effects analysis models and probabilistic risk assessment models
+134. The two primary standards of the BSCP Code of Ethics and Conduct mandate that
+certified professionals of all levels uphold which of the following?
+a. The steadfastness, diligence, and responsibility of a safety professional
+b. The esteem, integrity, and influence of the safety profession
+c. The traceability, transparency, and quality of the safety profession
+d. The education, training, and ongoing qualification of a safety professional
+135. A company vehicle’s odometer is broken. The fleet manager knows that the vehicle’s
+tires (which are rated for 40,000 miles) have never been changed and is feeling uneasy
+about the safety level of their present tread wear. The vehicle’s computer, however, does
+have extractable data on how many rotations the driveshaft has made since the vehicle was
+purchased new by the company 3 years ago. From this data, a calculation of tire mileage was
+hence deemed attainable. Given the following information from the onboard computer as
+well as the vehicle’s published technical specifications, approximately how many miles have
+the subject tires been driven?
+* 92,518,000 driveshaft rotations
+* 3.6 driveshaft rotations = 1 complete tire rotation (straight-line driving)
+* 30-in diameter tires
+a. 35,498 miles
+b. 38,229 miles
+c. 41,062 miles
+d. 44,370 miles
+26
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+136. A CSP has been reviewing various safety-incident metrics that track the last 4 years of
+performance at his or her organization. He or she was able to curve fit each of the 4 years’
+rates into approximate representative functions (as a function of time), as per the following:
+Year 1: f(t) = t2 + 4t + 3
+Year 2: f(t) = 2t2 – 6t + 1
+Year 3: f(t) = 3t3 + 2t – 5
+Year 4: f(t) = 2t3 – t2 + 4t + 6
+Given management’s perception that the workforce seems to be more accident prone in the
+summertime than at any other time during the year, the CSP was asked to assess the rate of
+change (of the functions) at the midpoint of each year (i.e., t = 6) and compare them for each
+of the 4 years. Which year was ultimately determined to have the greatest rate of (incident)
+change at t = 6?
+a. Year 1
+b. Year 2
+c. Year 3
+d. Year 4
+137. What is the power in an alternating current circuit where the voltage is 75 V, the
+impedance is 10 ohms, and the sine of the phase angle is 0.643?
+a. 269 watts
+b. 362 watts
+c. 431 watts
+d. 472 watts
+138. The safety manager for an organization has recently revamped his company’s entire
+occupational safety program. The table provides a brief description of each vital program
+element addressed in the new program. Which of the following key facets, however, seems to
+be omitted from the summary?
+Program Tenet Tenet
+Number
+1 Hazard Identification
+2 Work Control
+3 Procedural Compliance/Document Control
+4 Emergency Response
+5 Incentives
+6 Training/Requalification
+a. Personal protective equipment (PPE)
+b. Organizational hierarchical framework
+c. Spill mitigation and remediation
+d. Safety engineering
+27
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+139. An injured employee goes onto short-term disability for a period of 3 months at full
+compensation of his or her regular earned wage. At the end of the 3 months, he or she then
+moves into a long-term disability plan for a period of 5½ months that pays 2/3 of his or her
+regular earned wage, after which time he or she then returns to work as a 0.75 FTE for the
+remainder of the year. If the employee’s regular earned wage is $50,000 per year, how much
+income would he or she have made over that year?
+a. $42,361
+b. $27,778
+c. $34,192
+d. $38,716
+140. Which government agency should be immediately notified (first) in the event of any
+accidental release of hazardous materials during their transportation?
+a. U.S. Federal Emergency Management Agency (FEMA)
+b. U.S. Department of Transportation (DOT)
+c. U.S. National Transportation Safety Board (NTSB)
+d. U.S. Department of Homeland Security (DHS)
+141. What are the five typical elements commonly associated with a robust risk management
+program?
+a. Query, measure, bin, correct, and reference
+b. Categorize, characterize, calculate, correlate, and correct
+c. Identification, assessment, mitigation, financing, and administration
+d. Identification, evaluation, enhancement, training, and feedback
+142. An organization’s CSP has conferred with a resident industrial hygienist, and it was
+determined that a work area may potentially be contaminated with lead dust concentration
+levels that are likely well in excess of established action levels. Which of the following types
+of respiratory PPE should be (most appropriately) recommended for workers that are to
+occupy this area during their assigned tasks?
+a. Dust mask
+b. Full-face respirator
+c. SCUBA
+d. Loose-fitting powered air purifying respirator (PAPR)
+143. The technique of energy _________________ is regularly implemented by safety engineers to
+protect people and products from impacts or damage that may result from accidents.
+a. transfer
+b. misdirection
+c. isolation
+d. conversion
+144. Techniques such as peer collaboration, case-study deployment, and role-play are
+commonly used when attempting to effectively train which of the following groups for
+protocols not specifically laid out in procedural guidance?
+a. Organizational/line management
+b. Craft
+c. Administrative or overhead
+d. Junior or apprentice
+28
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+145. A subject pressure vessel within a company factory normally operates at 500 psia with
+a safety variability margin of ±15 percent. During a given shift, a plant worker notes that the
+vessel pressure gauge is reading 625 psia. Which one of the following actions would hence
+be MOST appropriate for the worker to undertake after reading the gauge?
+a. Check the gauge again every 15 min to ensure that pressure is not increasing any further.
+b. Immediately shut down the entire pressure vessel system.
+c. Consult with other plant personnel to see if they have likewise recently noticed the elevated
+pressure reading.
+d. Immediately consult the appropriate system contingency plan or procedure.
+146. A major safety hazard for electrical power industry personnel is _________________. These
+hazards usually result in extremely high temperatures over very small time periods, along
+with extremely high pressure waves. In addition, airborne shrapnel also typically manifests
+from such an event.
+a. electric arcs
+b. megavoltage discharge transfers
+c. high-current impedance offset events
+d. high-energy electrocutive detonations
+147. What is an individual who is hired for the specific purpose of impartially investigating
+worker issues or concerns and then suggesting associated resolutions to directorial boards
+known as?
+a. A mediator
+b. An arbitrator
+c. An ombudsman
+d. A freelance forward observer
+148. Which of the following is NOT a commonly implemented conflict resolution method
+utilized in industry?
+a. Adjudicative resolution
+b. Consensual dispute resolution
+c. Contractual correspondent resolution
+d. Legislative resolution
+149. A chemical tank within an industrial processing facility has a large, highly visible
+warning label located approximately 1 ft away from the tank, is clearly and legibly marked
+with large red-colored English print, and presents clear and straightforward guidance. The
+facility employs both native English-speaking and Spanish-speaking personnel. Which of the
+following potential shortcomings regarding the label should be of the MOST concern?
+a. There is only a single warning label.
+b. The label is not bilingual.
+c. The label is not actually affixed to the tank.
+d. The label is in red print and not black print.
+29
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+150. Which of the following product life-cycle phases usually concludes with the decision to
+move forward with a product’s development?
+a. The prototype-reconnaissance phase
+b. The conceptual phase
+c. The development-evaluation phase
+d. The cost-benefit analysis phase
+151. An employee who has been working in outdoor cold temperatures for his or her entire
+shift approaches a resident CSP and on-call shift nurse before he or she heads home with
+complaints of face numbness and drooping, tingling in the arms and legs, difficulty speaking,
+difficulty walking, and an apparent sudden absence of lucidity. What is the employee most
+likely experiencing, and what is the most appropriate response for the CSP and nurse to
+immediately undertake in this scenario?
+a. Bell’s Palsy—recommend the employee schedule a physician consult.
+b. Stroke—seek immediate medical attention (dial 911).
+c. Cold exposure symptoms—provide shelter, blanket, and warm beverage.
+d. Not possible to definitively determine from information provided—seek immediate medical
+attention (dial 911).
+152. When undergoing an external audit, what is usually the MOST important aspect to an
+auditor regarding an employee’s knowledge of a specific company procedural document?
+a. The employee acknowledges he or she is aware that the actual procedure exists.
+b. The employee is aware of the procedure and knows where to quickly access it for reference.
+c. The employee maintains a certain degree of knowledge of the procedure from memory.
+d. The employee is able to follow the procedure to the letter, from memory, if an emergency
+situation should arise and the document is ultimately not accessible for reference.
+153. Which of the following is NOT a typical mode in which heat is transferred between a
+human and the surrounding environment?
+a. Evaporation
+b. RF-pulse emission
+c. Conduction
+d. Radiation
+154. Which of the following documents is implemented across a wide array of industries for
+directing the production of procedural guidance within the realm of system safety?
+a. MIL-STD-882B
+b. ANSI 404.9A
+c. ASTM 972.1-C
+d. OSHA 1929.14 Regulatory Guide 4A
+155. What is typically NOT considered a key function of an air ventilation system?
+a. Removal of carbon dioxide buildups
+b. Enhancement of oxygen levels
+c. Removal of odors
+d. Elimination of toxins
+30
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+156. A CSP is performing a walk-through of a heavily trafficked work area looking for
+potential tripping hazards. Along the way he or she notices various items deposited
+throughout the work area, including several tools, various refuse articles (rags, empty cans,
+etc.), and pieces of lumber of various sizes. Which of the following would be the first course
+of action for the CSP to undertake in response to these observations?
+a. Emplace “tripping hazard” warning signs around the area(s) in question.
+b. Report the infractions to the health and safety manager.
+c. Recommend remedial safety training for responsible staff members.
+d. Notify the responsible work parties in the area to remove, relocate and/or properly store
+the articles in question.
+157. What are calculations and assessments that evaluate company loss-rate records for
+establishing worker compensation rates conventionally known as?
+a. Actuarial baselines
+b. Risk-equivalence correlators
+c. Experience modifiers
+d. Premium performance metrics
+158. A system safety engineering and design team is ready to emplace a new product concept
+into the production phase for rendering a prototype or beta version of the subject product.
+They have paid meticulous detail to facets such as proper implementation, maintenance,
+hygiene, and safeguards. Which of the following, however, is also a critical area that the team
+likewise needs to devote considerable attention?
+a. Capital costs
+b. Utilization schedules
+c. Product lifetimes
+d. Ergonomics
+159. During which of the following stages of the development process for a facility should the
+most emphasis be placed on quality assurance and quality control?
+a. Construction and modification
+b. Design
+c. Procurement
+d. Planning
+160. In the realm of safety-basis evaluation, a design-basis accident typically has a frequency
+(probability) of occurrence in the range of 10–6 to 10–4 per year. If the consequences of such
+an accident are calculated to potentially result in 100 to 300 deaths, what is the overall
+potential range of risk for such an accident?
+a. 0.001 to 0.003 per year
+b. 0.0003 to 0.01 per year
+c. 0.0001 to 0.03 per year
+d. 10–6 to 10–4 per year
+31
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+161. Bob and Bill are both workers in a loud processing area of a factory. Bob has partial
+hearing loss and also speaks with a lisp, while Bill’s hearing is unimpaired. On nearly a daily
+basis, Bob and Bill have miscommunications. Which of the following is the MOST likely
+reason for why these miscommunications occur so frequently?
+a. Bob’s partial deafness and lisp
+b. Bill poor listening skills
+c. Ongoing background noise in the work area
+d. All of the above
+162. A yellow warning sign that shows a downward arrow intersecting with a worker’s
+hardhat is likely depicting which of the following?
+a. Potential for falling objects
+b. Extreme danger of an electrocution event to the head
+c. Extreme danger of falling
+d. The need for total awareness of one’s immediate surroundings
+163. The ____________________________ states that an organization will undergo fiscal hardship if it
+generates or disseminates a hazardous product and then ultimately neglects to resolve the
+underlying issue(s).
+a. Trans-liability axiom
+b. Negligence responsivity clause
+c. Law of safety progress
+d. Statute of culpability and stewardship
+164. Americium-beryllium (Am-Be) neutron sources, and the like, are often used in nuclear
+reactors and other systems to provide initial quantities of neutrons to help foster an
+eventual chain reaction that leads to a state of criticality. What is the most accurate
+description of how an Am-Be source (which can be a significantly hazardous neutron
+radiation source) generates its neutrons?
+a. Through a (γ, n) nuclear reaction
+b. Through an (α, n) nuclear reaction
+c. Through a (β, n) nuclear reaction
+d. Through a (n, n) nuclear reaction
+165. Who is usually responsible for taking roll calls during a shelter in place or a building
+evacuation?
+a. Emergency response team manager
+b. Emergency coordinator
+c. Office warden
+d. Office manager
+166. A significant acid leak is detected in a chemical processing plant, a type that has never
+been experienced before during the 40-year operating history of the plant. Which of the
+following types of procedure categories should be immediately available and consulted for
+dealing with this most unusual emergency?
+a. Transient event procedure
+b. Special safety procedure
+c. Beyond-design-basis procedure
+d. High-risk event response procedure
+32
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+167. According to Frederick Herzberg’s theory of behavior, a worker’s desired extrinsic
+outcomes typically include which of the following?
+a. Status, promotion, and power
+b. Networking and affiliating
+c. Job security, income, and safe and comfortable working conditions
+d. Personal recognition, praise, and respect
+168. Approximately how much more often do workers who have habitual alcohol or drug
+problems actually miss work (i.e., incur lost days)?
+a. 15 times more often
+b. 10 times more often
+c. 5 times more often
+d. 3 times more often
+169. What is a goniometer typically used for within the realm of ergonomics?
+a. Measuring average distance between vertebrae while seated
+b. Three-dimensionally measuring a full range of motion during a work activity
+c. Measuring the actual speed at which an object is lifted
+d. Measuring angles associated with human joints (e.g., knees, elbows, wrists, and ankles)
+170. A worker is required to undergo annual medical monitoring for his or her assigned
+position. During the physical, his or her blood pressure is found to be 171/79, with a resting
+pulse rate of 103. From these results, it is possible the attending physician may come to
+which of the following preliminary sets of conclusions?
+a. High diastolic
+b. Low systolic
+c. Possible tachycardia
+d. Both a & c
+171. Which of the following is typically NOT employed to create resistant forces within an
+apparatus?
+a. Springs
+b. Inertia
+c. Modular strain
+d. Viscous damping
+172. ___________________ sickness can be significantly mitigated by preventing overexposure to
+high-pressure environments and by carefully and steadily employing rates of
+___________________.
+a. Bends/nitrogen
+b. Decompression/decompression
+c. Hypoxia/oxygen
+d. High-altitude/pressurization
+33
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+173. Which of the following would be appropriately categorized as a continuous control
+mechanism?
+a. Computer mouse
+b. Light switch
+c. Buttons
+d. Computer keyboard
+174. Within the realm of system design, the integration of multiple elements with
+overlapping functions that permit the continuous, normal (ongoing) operation of a given
+product in the case of one (or more) elemental failure(s) is known as which of the following?
+a. Parallel architecture
+b. Functional interdependency
+c. Cross-reliability
+d. Redundancy
+175. A state-of-the-art facility employs a system that automatically powers down all major
+electrical components if the ambient temperature within the facility exceeds a certain
+predetermined threshold level. This type of system is conventionally known as which of the
+following?
+a. A lockout thermal regulator system
+b. A fail-safe system
+c. A thermostatic power modulator system
+d. A passive autoregulation system
+176. The robustness of hazardous waste shipping containers and casks has been thoroughly
+tested over the years primarily at which of the following U.S. installations?
+a. U.S. national laboratories
+b. U.S. military bases
+c. U.S. proving grounds
+d. None of the above
+177. Which two federal agencies are primarily responsible for regulating the placement,
+storage, and amounts of combustible materials within industrial settings?
+a. ASTM and NFPA
+b. FEMA and DHS
+c. NFPA and OSHA
+d. OSHA and NIOSH
+178. A static analysis determination is made for a piece of piping within an industrial facility.
+The following is ultimately concluded from the determination:
+The overall compression force on the pipe is about 50 N.
+According to laser-optic results, the pipe has not contracted (or altogether moved)
+by any discernible amount.
+What conclusion can be drawn from this information?
+a. The associated torsional force on the pipe should be equal to 50N ÷ 2π.
+b. The pipe’s outward directional forces should be equal to about 50 N.
+c. The shear force on the pipe should be equal to about 100 N.
+d. The pipe’s elastic modulus can be calculated by multiplying 50 N by the length of the pipe.
+34
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+179. A negative safety margin value is theoretically correlated with which of the following?
+a. A high risk of failure
+b. A low risk of failure
+c. A 100 percent probability of failure
+d. A 0 percent probability of failure
+180. How many OSHA regional offices are presently in existence across the United States?
+a. 4
+b. 10
+c. 22
+d. 50
+181. Which of the following is TRUE with regard to large-quantity hazardous waste
+generators (LQGs)?
+a. There is no designated limit of the quantity of HAZMAT that is allowed to be stored at a
+specific time.
+b. LQGs are defined by the generation of >1 lb of acute HAZMAT per month.
+c. LQGs typically have an allowed maximum storage time of 1 year or less for most wastes.
+d. They are conditionally exempt from most EPA reporting requirements.
+182. In a fault-tree analysis, what does the term or gate “XOR” represent?
+a. An output event occurs if some input events occur.
+b. An output event occurs if all input events occur.
+c. An output event occurs if exactly one input event occurs.
+d. An output event occurs if all input events occur in a specific sequence.
+183. David is a CSP who works for a rural county located in a southeastern U.S. state. He
+receives a telephone call from a locally well-known family farming operation that has an
+ongoing agricultural cooperative agreement with the county. On the call he is told that there
+has been a tractor accident injuring one of the farmhands and that he should immediately
+come out to the property to investigate. Upon arrival at the scene, David learns that the
+injured farmhand is actually the son of the farm’s owner. After verifying that the victim has
+received necessary acute medical care, which organization or agency should be notified of
+the incident?
+a. The U.S. Department of Agriculture
+b. OSHA
+c. The local police department
+d. No organization unless required by local statute or agreement
+184. Per OSHA’s 29 CFR 1910.147, Control of Hazardous Energy, a hot tap is defined as which
+of the following?
+a. The emplacement of a lockout mechanism on an energy-isolating device
+b. A maintenance or servicing procedure that entails pressurized welding operations for
+installing connections or other support equipment
+c. A prominent warning device or system
+d. An access point via which an electrocution event is of high risk
+35
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+185. Which of the following scenarios would be categorized as a privacy case on an OSHA
+300 form, whereby the employee’s name is not ultimately recorded on the form?
+a. An injury caused by an intentional destructive act (e.g., system sabotage)
+b. An injury resulting from professional incompetence
+c. An injury to the gonads
+d. An injury resulting from alcohol or drug abuse
+186. Most portable fire extinguishers must be hydrostatically tested once every how many
+years?
+a. 2
+b. 5
+c. 7
+d. 10
+187. A qualitative fit test for a respirator is conventionally defined by which of the following
+actions?
+a. Assessing the suitability of a respirator by measuring the amount of leakage into the device
+b. A respiratory or pulmonary physical examination
+c. Comparing blood-oxygen levels between times of respirator wear and normal breathing
+d. A pass-or-fail evaluation to assess the level of fit adequacy based on a wearer’s response to
+a testing agent
+188. A turtle suit is a form of PPE that is often worn to protect against the hazards of which of
+the following?
+a. Neutron radiation
+b. Pinch points
+c. High-pressure water blasting
+d. Tunneling
+189. An employee working in a chemical manufacturing facility is regularly subjected to
+several potential hazards during the daily work routine, namely of which include the
+following: hydrochloric acid, hydrofluoric acid, nitric acid, regular machinery noise in excess
+of 125 dB (unprotected), and falling objects. Which of the following PPE regimes should be
+regularly prescribed or required for this employee?
+a. Apron, full-face respirator, earmuffs, neoprene gloves, and hard hat (that can accommodate
+earmuffs)
+b. Coveralls, half-face respirator, earplugs and earmuffs, nitrile gloves, and hard hat (that can
+accommodate earmuffs)
+c. Apron, safety goggles, earplugs, PVC gloves, and hard hat
+d. Coveralls, safety goggles, earplugs and earmuffs, butyl rubber gloves, and hard hat (that can
+accommodate earmuffs)
+190. What is a typical setting that a ground-fault circuit interrupter (GFCI) is normally set to
+adequately protect workers from electrocution scenarios?
+a. 0.05 mA
+b. 0.5 mA
+c. 5 mA
+d. 50 mA
+36
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+191. Which of the following scenarios would be categorized as exempt from workers’
+compensation coverage?
+a. An individual employed for 60 consecutive workdays within an employer’s private home
+b. An individual performing services in return for monetary compensation provided by a
+religious organization
+c. A gardener
+d. An individual who elects not to be covered
+192. According to Abraham Maslow’s hierarchy of needs, personal facets such as creativity,
+problem solving, morality, spontaneity, and lack of prejudice all fall under which human
+need?
+a. Esteem
+b. Self-actualization
+c. Love and belonging
+d. Enhancement of superego
+193. Which of the following leadership personalities typically permits employees to
+contribute to decision-making processes and affords subordinates a considerable degree of
+latitude in carrying out their tasks?
+a. Permissive autocrat
+b. Directive democrat
+c. Permissive democrat
+d. Directive autocrat
+194. The __________________ Theory of Accident Causation asserts that accidents can, in large, be
+caused or prevented by the manner in which situational characteristics interplay with
+predispositional characteristics.
+a. Human Factors
+b. Chaos
+c. Domino
+d. Epidemiological
+195. The multilinear events sequencing (MES) method uses a(n) _____________ to illustrate the
+sequence of events or occurrences that contributed to or was the direct cause of an event.
+a. flow chart
+b. iterative algorithm
+c. time line
+d. hierarchy
+196. Retention rate efficiencies vary greatly in humans depending upon what mode of
+teaching or training is employed for a set of material. Which of the following delivery or
+training methods typically results in the highest retention efficiency rates?
+a. Discussion groups
+b. Demonstrations
+c. Teaching others
+d. Audiovisual
+37
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+197. An extremely dangerous shortcut that is all too often taken with pneumatic nail guns
+and hammers is which of the following?
+a. Using two machines at the same (i.e., one in each hand)
+b. Electrically overloading to attain a faster punch rate
+c. Deliberately disabling safety catches
+d. Taping down triggers to get automatic repeated action
+198. Which of the following storage configurations is considered allowable for oxygen
+cylinders within the workplace? A separation distance from fuel gas cylinders (or
+combustible materials) by a minimum distance of _________ ft, or by a noncombustible barrier
+at least __________ ft in height that has a fire-resistance rating of at least ___________ hrs.
+a. 20, 5, 1.5
+b. 18 4, 1.5
+c. 14, 3, 1
+d. 12, 2, 1
+199. For a worker to be permissibly located on a moving (mobile) scaffold that has a base of
+4 ft, what is the minimum required height for that scaffold?
+a. 6 ft
+b. 8 ft
+c. 10 ft
+d. 12 ft
+200. A hard hat’s safety zone is defined as the space or clearance between the hat’s shell and
+its suspension. What is a typical minimum recommended measurement for this space or
+clearance?
+a. 0.5 in
+b. 0.75 in
+c. 1 in
+d. 1.5 in
+38
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+Answer Key and Explanations
+1. B: The fundamental counting principle essentially applies to circumstances where the order (or
+position) of an initial event occurrence ultimately influences the overall probabilistic outcome of an
+entire event scenario. In essence, the principle maintains that if a first event has “a” possible
+outcomes, and after that outcome has transpired, a subsequent event then has “b” possible
+outcomes, then there are resultantly (a x b) potential ways the outcomes can occur in that
+prescribed order.
+2. D: The four colors of the NFPA 704 Diamond System are yellow (right side of the diamond,
+depicting instability level), blue (left side of the diamond, depicting health hazard level), red (top
+side of the diamond, depicting fire hazard level), and white (bottom side of the diamond, depicting
+special hazard levels for oxidizers and water reactions). Numbers from 0 to 4 are provided in each
+segment depicting the level of hazard (0 = lowest and 4 = highest).
+3. D: The U.S. FDA is responsible for protecting the public at large from potential hazards associated
+with the use of all pharmaceutical products as well as sold foodstuffs, organics, cosmetics, or any
+other products available for curative applications.
+4. A: Within an industrial or process setting, there are three principal hazard modes that a worker
+may be subjected to: falling of loads, handling of materials, and materials being in motion. Examples
+of dangers within these categories may include facets such as forklift accidents, toxic exposures,
+and pinch points, respectively.
+5. C: The majority of laws that involve worker safety and health fall under the purview of civil law.
+The Occupational Safety and Health Act of 1970 is the chief civil law that is in use today for
+protecting worker safety and health and is regularly enforced by the Occupational Safety and
+Health Administration. Hence, injured workers should normally seek counsel from civil attorneys.
+6. B: Workers’ compensation laws are typically categorized into two separate designations:
+compulsory-related laws and elective-related laws. Compulsory laws require that employers
+adhere to all facets of the laws, otherwise they may be subjected to legal consequences; elective
+laws, conversely, provide employers the option of participation.
+7. D: Primary safety hazards associated with the use of powered vehicles (e.g., backhoes,
+bulldozers, etc.) in a work area may include inadvertent exceedance of load limits, potential carbon
+monoxide overexposure(s), blind spots impeding operator visibility, power source malfunctions,
+flammable fuels, and operator error due to poor training, inexperience, mental fatigue, or
+incompetence. Operator physical overexertion is typically not expected because the balance of
+required actions usually does not go beyond the manipulation of powered controls within a
+climate-regulated cab.
+8. A: The conventional definition of a blasting agent is a material that demonstrates adequate
+stability in a stand-alone condition yet possesses enough exothermic potential to prompt an
+explosion when initiated. OSHA 1910.109 defines it as any material or mixture, consisting of a fuel
+and oxidizer, intended for blasting. A very commonly used blasting agent is ammonium-nitrate fuel
+oil (ANFO).
+9. C: There are several types of conveyor mechanisms regularly implemented within industrial
+settings for transporting bulk products and materials; these include belts, buckets, rollers, and
+39
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+chains. The primary hazards associated with these devices are usually pinch points, snags, and
+falling materials.
+10. C: Over recent years, fall-related deaths in construction have been accounting for approximately
+40 percent of all fatalities in that industry, which is by far the number one cause. According to OSHA
+statistics, out of 4,251 worker fatalities in private industry for CY 2014, 874 (20.5 percent) were in
+construction, with falls accounting for 349 out of the 874 total deaths (39.9 percent). Hence, in the
+case of 369 construction-related deaths, roughly 150 of them would likely be related to fall
+incidents.
+11. B: A noise dosimeter is a commonly used device for measuring potentially hazardous noise
+levels in industrial settings. It is usually employed in a manner that continuously processes noise
+levels throughout the duration of a work shift (in a particular work area) and then provides an
+equivalent cumulative quantity at the end of that shift, depicting what a worker’s total noise
+exposure would be in that area.
+12. A: Federal safety-regulating agencies, such as OSHA, normally track a host of metrics related to
+worker injuries and illnesses. Such metrics typically include frequencies of work-related deaths, job
+transfers, and restricted duty.
+13. C: A variety of terminologies and technologies are regularly employed within the domain of gas
+or vapor sampling (for contaminants); these include colorimetry, chromatographs, and grab
+samples. Centrifugal separation, on the other hand, is strictly used within the realm of particulate
+sampling.
+14. D: The OSHA Classification System for Occupational Illnesses and Conditions includes several
+categorical facets, including respiratory- and lung-related disorders or conditions, radiation-related
+disorders or conditions, skin-related disorders or conditions, toxic-related disorders or conditions,
+and repetitive-motion or ergonomic-related disorders or conditions.
+15. A: U.S. citizen employees who live and work in the United States have a legal right to inspect
+certain records under their name.
+16. D: There are several units that are regularly employed for characterizing or expressing visible-
+light intensity levels, including footlamberts, foot-candles, and lumens.
+17. A: To counteract high-pressure environments (e.g., that seen during deep underwater diving),
+replacing nitrogen with inert surrogate gases, such as helium, is a conventionally implemented
+strategy for counteracting the potential effects of nitrogen narcosis.
+18. C: Per NAAQS protocol (40 CFR 50), the maximum allowable criteria pollutant concentration for
+lead (Pb) is 0.15 μg/m3 over a 3-month period.
+19. B: A discount factor for a present dollar value given a future value at a 3 percent annual interest
+rate over a 7-year period would have an associated functional-notation representation of (P|F, 3%,
+7).
+20. D: A typical three-step process that should always be employed in industrial settings in the
+event of a verified hazardous material(s) spill is (1) safety, (2) containment or isolation, and (3)
+notification.
+40
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+21. B: Acquired data from two distinct and separate variables is known as bivariate data (e.g., x and
+y). Bivariate data can be displayed through a variety of illustrative and graphical tools, including
+comparative tables, scatter plots, bar charts, and linear regression best fits.
+22. C: For the data set (3, 7, 9, 12, 26, 32, 45, 58), there is no mode. The mode is defined as the data
+value (or values) that occur(s) the most number of times relative to the rest of the values in a
+statistical sample or population. Because each (and all) of the subject values only occurs once in the
+subject data set, there is no mode.
+23. B: For a standard normal distribution, approximately 48 percent of the total area below the
+curve would correlate to the adding of the segments in the ranges of (–2sd < x < –sd) and (0 < x <
+sd).
+This is derived via the following per the 68-95-99.7 rule: The range of (–2sd < x < –sd) would
+equate to an area allocation of ½(95%-68%) = 13.5%, and the range of (0 < x < sd) would equate to
+an area allocation of ½(68%) = 34%. Hence, 34% + 13.5% = 47.5% ≈ 48%.
+24. C: The U.S. Bureau of Labor Statistics is ultimately charged with and responsible for distributing
+statistical information pertaining to job-related injuries or illnesses. Other agencies, however, such
+as the U.S. Occupational Safety and Health Administration and the U.S. National Institute of
+Occupational Safety and Health often cite or reference such published statistics in support of their
+missions, campaigns, outreach, and enforcement initiatives.
+25. B: The fellow-servant rule is an often-utilized defense posture corporate entities implement
+against on-the-job injury claims filed by employees. Dependent upon the situation and extent of
+litigation, however, other legal defense approaches such as contributory negligence and assumption
+of risk may also potentially be utilized by employers who endeavor to protect their corporate
+interests against such claims.
+26. C: The National Council on Compensation Insurance is responsible for setting general rate
+premiums that employers will pay for workers’ compensation insurance. Some employers,
+however, may choose to institute their own private plans or programs with independent funding
+mechanisms.
+41
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+27. C: Sound octaves are conventionally characterized by frequency with sequential octaves
+normally differing by a factor of two. Hence, an octave may exist at a frequency of 100 Hz, with the
+octave directly below it existing at 50 Hz and the one directly above it existing at 200 Hz.
+28. B: A teratogen is best defined as an agent, material, or chemical that can cause deformities or
+birth defects in unborn embryos or fetuses. Substances such as alcohol, tobacco, psychoactive
+drugs, various diseases, and an array of potential environmental contributors (including numerous
+hypothetical workplace chemicals (e.g., PCBs and ionizing radiation) can all be potential teratogens.
+29. B: Particulate contamination can come in a variety of forms, including aerosols, mists, fumes,
+and smoke. Gases are an altogether different state of matter than particulates and hence do not fall
+under the subject category as a potential form thereof. As such, there is an entirely separate
+category of contaminants (contamination) that is strictly associated with gases.
+30. D: There are several potential hazards that are conventionally tied to the normal use of high-
+pressure receptacles and containers in the workplace; these may include: pressures exceeding
+design safety levels, elevated fire risks due to enhanced oxygen levels in certain containers, and
+possible container failure or rupture due to corrosion buildup.
+31. A: A monitoring system should always be employed in tandem with a warning system to alert
+workforces of hazardous conditions potentially at hand.
+32. B: Quite often, hazardous material spills can ultimately result in an ensuing dangerous chemical
+reaction. Typical observable characteristics of such reactions may include the emission of smoke
+and/or vapors, bubbling, unusual odors, or the generation or buildup of heat.
+33. A: A financial covenant typically between an individual (e.g., an investor) and a corporate or
+government body that guarantees to repay an investment, plus accrued interest, at a predesignated
+time is known as a bond.
+34. C: A stem-and-leaf plot is typically regarded as one of the most useful graphical aids for clearly
+illustrating data groups that fall within particular value ranges.
+35. D: A number of statistical parameters may be potentially utilized if one wishes to calculate a
+measure of dispersion for a given data set. These may include: variance, standard deviation, and
+range.
+36. B: The standard deviation (“σ”) for the whole population data set (2, 7, 11, 24, 44, 62, 79, 81,
+105, 120, 139, 162) is calculated per:
+Σ(𝑥−𝑥̅)2
+𝜎 = √
+𝑁
+This equates to:
+σ = [(4579 + 3927 + 3442 + 2085 + 659 + 59 + 87 + 128 + 1248 + 2533 + 4807 + 8525) ÷ 12]0.5 ≈ 52.
+37. D: There are several characteristic shapes of frequency curves that exist in the realm of
+statistics. These include multimodal, (left- or right-) skewed, j-shaped, U-shaped, and symmetrical
+(such as a Gaussian normal distribution).
+42
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+38. C: “LD50” is conventionally defined as a radiological or chemical dose quantity whereby 50
+percent of an exposed population would be expected to acutely (rapidly) die as a result of the
+subject exposure. Thus, if a population of 100,000 people incurred an LD50 exposure,
+approximately 50,000 resulting acute fatalities would be expected in that population.
+39. A: A probabilistic risk assessment (PRA) is a detailed and systematic process to evaluate
+potential risks associated with the design and operation of a multifaceted, complex technology. A
+chemical plant or a new transportation system, for example, would both undergo PRAs during its
+conceptual design stage.
+40. D: Simultaneous timed-events plotting analyses are routinely used by safety engineers for
+assessing potential workplace system hazards. Such analyses typically assess events through a
+time-sequence viewpoint.
+41. B: Within the specific quality assurance domains of audits and inspections, the acronym CAQ is
+defined as Condition Adverse to Quality. It usually depicts or categorizes conditions of a serious
+nature and are typically given high priority (and resources) for prompt corrective action.
+42. C: Per the U.S. National Industrial Security Program Operating Manual (NISPOM) security
+classification protocols, document cover letter and label colors that indicate top secret, secret,
+confidential, and unclassified are orange, red, blue, and green, respectively.
+43. A: Injury information resulting from an accident event should be reported by corporate health
+and safety management personnel as soon as possible after an occurrence. Specific OSHA protocol
+(per 29 CFR 1904.39) mandates, however, that any work-related deaths must be reported within 8
+hrs. Furthermore, any work-related amputations, in-patient hospitalizations, or loss(es) of an eye
+must be reported within 24 hrs.
+44. B: In a total workforce of 200 people (who each work 2,000 hrs over a calendar year), if there
+are 10 total cases of missed workdays, restricted duty, or transfer due to work-related injuries over
+that calendar year, the calculated resulting DART rate is 5. This is derived via the following:
+[DART = (X/Y) × 200,000], whereby X = the total number of injuries or illnesses with missed
+workdays or restricted duty and Y = the total number of hrs worked by all employees =
+(10/400,000) x 200,000 = 5.
+45. C: A bar graph most closely resembles a histogram. Both types of illustrative tools use
+rectangular bars to certain rising (or extending) axis values for depicting a certain measured
+quantity or value. A histogram is essentially a specific type of bar graph that displays a numerical
+data (probability) distribution for a continuous variable.
+46. A: A teletector would be most suitable for use by health physicists (or radiological technicians)
+for determining actual radiation levels within a very high radiation area before workers would
+enter to perform an assigned task.
+47. D: A “fishbone diagram” is also known as a cause-and-effect analysis. Its primary function is to
+provide a visual representation of the numerous potential causes behind a specific problem or
+effect. It is often especially useful for scenarios in which there is very little existing data in support
+of an evaluation or assessment.
+43
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+48. B: The 50th percentile value of a normal distribution is also always denoted as the median. In a
+normal (e.g., Gaussian) distribution, 50 percent of the subject values will be above the median (50th
+percentile) value, and 50 percent will be below this value.
+49. A: Conditions adverse to quality are usually considered the most serious of all audit-finding
+classifications. Other types of findings from audits that fall into categories of lesser severity include:
+conditions not adverse to quality, observations, and opportunities for improvement. All categories
+would normally be entered, addressed, and closed out via the use of a robust corrective action
+program database.
+50. C: Per OSHA directive, VPP Merit-status employers are expected to commit to the pursuance of
+star status within a period of 3 years.
+51. B: Per 40 CFR 261, corrosivity (code #D002) is a designated hazardous waste material
+characteristic to which the U.S. Environmental Protection Agency extends an ordinal waste code
+value; strong corrosives (e.g., acids) would be categorized under this designation. The other coded
+characteristics under 40 CFR 261 include: ignitability (code #D001), reactivity (code #D003), and
+toxicity (codes #D004—#D043).
+52. A: Job safety analyses (JSAs) should be regularly implemented or reviewed in coordination with
+preliminary task walk-downs and pre-job briefings, prior to the commencement of activities.
+53. C: Lifting indexes (LIs), recommended weight limits (RWLs), and load constants (LCs) are
+established components of NIOSH’s lifting equation. In addition, the equation specifically takes into
+account factors and parameters such as: object locations relative to the lifter, object locations
+relative to the floor, vertical moving distances, degrees of lifter twisting, frequencies or durations of
+lifting, and gripping forces.
+54. C: A floor surface with a moderate slip potential has a coefficient of friction value of around 0.4.
+This means that the surface’s traction is considered acceptably marginal and that a reasonable
+chance of a slip-related accident occurring on such a surface exists under normal conditions.
+55. A: In the following Cartesian data-point set: [(0.5, 1.4), (2, 6), (4, 11.8), (7, 20), (9, 22), (12, 37),
+(15, 45.8), (17, 50)], the point (9, 22) would be considered an anomaly compared to all of the
+others. This can be demonstrated by plotting all of the subject values via a scatter plot and noting
+that all of the other points essentially construct a straight line. The point (9, 22) falls well outside of
+this line, however, hence denoting it as an anomaly with respect to the rest of the data set.
+56. B: With regard to root-cause analyses (RCAs), they are only performed for an event after the
+event has occurred. Furthermore, there can hypothetically be several tangible underlying root-
+cause outcomes for any given RCA. Moreover, historical RCAs may (should) be utilized for
+predicting possible events before they occur. It should also be noted that incident management
+processes and RCAs should not normally be integrated and implemented in tandem.
+57. A: If a calculated statistical variance for a sample of data values is found to be approximately
+2.76, the associated standard deviation value correlated to that variance is 1.66—SD = (Variance)0.5.
+58. B: A powder that is comprised of 5 percent silica would have a calculated PEL of 4.88 mg/m3
+per the following derivation found in OSHA 29 CFR 1910.1000, Table Z-3:
+PEL = (10 mg/m3)/(silica-% + 2) = 10/(0.05 + 2) = 4.88 mg/m3
+sil
+44
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+To then convert into units of ppm from mg/m3, the following formula is employed:
+ppm = [(4.88 mg/m3)(24.45)] ÷ [molecular wt of silica (SiO )]
+2
+= [119.3] ÷ [60] = 1.99 ppm
+59. A: Xylene being generated within a work area per V = 100,000 ft3, Q’ = 2,000 cfm, and G = 3
+cfm—whereby V is the volume of the work area, Q’ is the air flow rate in the work area divided by a
+design distribution constant, and G is the contaminant generation rate—will reach a concentration
+(C) of 150 ppm within the work area in approximately 5.27 min. This is calculated per the
+following:
+T (time required) = {[-V/Q’] x [ln((G-Q’C) ÷ G)]}
+= {[-50] x [ln((3-0.3) ÷ 3)]}
+= {[-50] x [-0.1054]} = 5.27 min
+60. D: Under normal conditions (indoor or outdoor) with no solar load, a wet-bulb temperature
+(WB) is typically calculated via the following equation: WB = [(WBGT – 0.3GT) ÷ 0.7], where WBGT
+is the wet-bulb globe temperature index and GT is the globe temperature. However, in the case
+where there is a solar load, the equation is modified slightly to include a component from the dry-
+bulb temperature (DB). Hence the adjusted equation now becomes: WB = [(WBGT – 0.2GT – 0.1DB)
+÷ 0.7]. Hence, for the specific case provided, the calculated WB was determined to be 109.7°F.
+WB = [(103 – 17 – 9.2) ÷ 0.7] = 109.7
+61. B: Given the following set of data, the calculated correlation coefficient (CC) between the two
+variables x and y is determined as follows:
+x y
+3 2
+5 4
+8 6
+11 9
+14 13
+16 15
+Total 57 49
+Average 9.5 8.2
+The fundamental equation that is used for calculating CC is:
+CC = [N∑(xy) – (∑x)(∑y)] ÷ {[N∑(x2) – (∑x)2][N∑(y2) – (∑y)2]}1/2
+Hence, the values for xy, x2, and y2 must now be calculated and added to the table:
+x y xy x2 y2
+3 2 6 9 4
+5 4 20 25 16
+8 6 48 64 36
+11 9 99 121 81
+45
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+14 13 182 196 169
+16 15 240 256 225
+Total 57 49 595 671 531
+Average 9.5 8.2 99.2 111.8 88.5
+Via deployment of the subject equation, we attain:
+CC = [(6)(595) – (57)(49)] ÷ {[(6)(671) – (57)2][(6)(531) – (49)2]} 1/2
+[777] ÷ {[777][785]} ½
+777 ÷ 781 = 0.995
+62. C: Total unit pressure for a mixture or combination of gases within a single container is equal to
+the sum of the partial pressures of the constituent gases contained within. Thus, for the subject case
+of Gas = 2 atm, Gas = 28 atm, and Gas = 50 atm, the total calculated pressure for the three-gas
+x y z
+mixture is determined via the following:
+P Gas = ∑ (P Gas + P Gas + P Gas )= 12 atm + 28 atm + 50 atm = 90 atm
+total x y z
+63. A: Conductivity is the measured degree to which a material conducts electricity and is the direct
+inverse (reciprocal) of resistivity. Hence, a steel wire that is measured to have an electrical
+resistivity of 20 ohm-m has an associated conductivity of 0.05 siemens-m–1.
+64. C: The t-value test is often utilized for determining the extent of difference(s) between the
+means of statistical samples. For the example case of a company’s fabrication process requiring a
+certain mold to be consistently manufactured at a 3.25-in thickness, given seven random mold
+samples of 3.21, 3.28, 3.32, 3.36, 3.25, 3.29, and 3.22 in, the calculated “t” value for those samples is
+determined as follows:
+T = {[(sample mean) – (desired target value)] ÷ [sample standard deviation]} x [Number of samples
+– 1]1/2
+T = {[(3.276) – (3.250)] ÷ [0.0538]} x [7 – 1]1/2
+= {0.483} x 2.449
+= 1.183
+65. C: If a system (X) has two (and only two) codependent subsystems (y and z) required for its
+operation, with one having a 0.0001 failure rate and the other having a 0.001 failure rate, the
+overall probability of failure for the entire system X is equal to the sum of the two subsystem failure
+rates, given that failure of system X will occur if failure occurs in either of the two subsystems.
+X = y + z = 0.0001 + 0.001 = 0.0011
+failure failure failure
+66. D: If the pH of a sulfuric acid solution used in an industrial setting must be below 1.5 to burn
+through worker PPE, the minimum associated hydrogen-ion (H+) concentration of that acid must be
+0.032 to reach the threshold of such a pH. This is calculated via the following: pH = –log[H+],
+whereby [H+] = hydrogen-ion concentration. Hence, 1.5 = –log[0.032].
+67. B: For an examination given to 50 students showing a mean score of 74.3 percent, with a
+standard deviation of 6.9 and exactly one student scoring an 80 percent, if a standard distribution is
+assumed, the number of students scoring higher than this one student (i.e., > 80 percent) can be
+calculated via determining the statistical Z-score of the exam results.
+46
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+Z = (Χ2 – μ) ÷ σ, whereby Χ2 is the singular result (chi-square value) to be assessed around, μ is the
+mean, and σ is the standard deviation. Thus, (80-74.3) ÷ 6.9 = 0.826 = Z.
+The provided normal distribution-Z table extract is then employed for determining what percent of
+students scored above 80 percent on the exam:
+Z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.7 0.7580 0.7611 0.7642 0.7673 0.7704 0.7734 0.7764 0.7794 0.7823 0.7852
+0.8 0.7881 0.7910 0.7939 0.7967 0.7995 0.8023 0.8051 0.8078 0.8106 0.8133
+0.9 0.8159 0.8186 0.8212 0.8238 0.8264 0.8289 0.8315 0.8340 0.8365 0.8389
+The Z value of 0.826 is located in the subject table as shown. It must be interpolated between the
+0.82 value of 0.7939 and the 0.83 value of 0.7967. It is resultantly determined to be 0.7956. This
+means that 79.56 percent of the students scored 80 percent or lower, and therefore 20.44 percent
+of students scored above that mark: 0.2044(50 students) ≈ 10 students.
+68. A: The numerical difference (i.e., absolute value or delta) between an upper-control limit (UCL)
+and a lower-control limit (LCL) for an accident control-chart distribution can always be calculated
+by 2 x (the number of standard deviations [z]) x (the distribution’s standard deviation value [σ]).
+This is demonstrated via the following calculation:
+UCL = mean + zσ
+LCL = mean – zσ
+UCL – LCL = (mean + zσ) – (mean – zσ) = zσ – (-zσ) = zσ + zσ = 2(zσ). Hence, for the subject case
+stated in this problem, we attain: 2(3)(0.75) = 4.5.
+69. D: In the right triangle shown, the tangent (TAN) of angle <BAC is equal to (6.93 ÷ 4), or 31/2, or
+1.73.
+This is derived via the fact that for a 30-60-90 triangle, the respective segment unit lengths (in
+increasing order) are 1, 31/2, and 2. Thus, in the figure, because the hypotenuse is equal to 8,
+segment AC must be equal to 4, and x must be equal to (4)(31/2). From this, it is now possible to
+arithmetically determine the tangent of <BAC as [(4)(31/2) ÷ (4)] = [6.93 ÷ 4] = 31/2 ≈ 1.73. With a
+calculator, alternatively, this may simply be processed as TAN 60°; however, the user must be able
+to preliminarily infer that <BAC is in fact 60 degrees from the axiom that all interior angles of a
+triangle always aggregate to a total of 180 degrees because the value of <BAC is not provided in the
+diagram.
+70. A: A car engine component operating for 10,000 hrs with an established reliability of 0.998
+would have a higher failure-per-hr rate than an aircraft component operating for 20,000 hrs with
+an established reliability of 0.997. This quantitatively determined via the following:
+Reliability(t) = e-λt, whereby λ is the number of failures per hr and t is the operating time.
+47
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+Car Engine Case:
+0.998 = e-λ(10,000 hrs)
+ln 0.998 = ln (e–λ(10,000 hrs))
+–0.0020 = (–λ)(10,000 hrs)
+λ = 2 x 10–7 failures per hr (or 1 failure every 5,000,000 hrs)
+Aircraft Component Case:
+0.997 = e-λ(20,000 hrs)
+ln 0.997 = ln (e–λ(20,000 hrs))
+–0.0030 = (–λ)(20,000 hrs)
+λ = 1.5 x 10–7 failures per hr (or 1 failure every 6,666,666 hrs)
+This scenario is demonstrative of the concept that just because a component has an overall higher
+reliability than another component does not necessarily mean that its failure rate is always lower.
+The amount of time in which reliability is measured is pivotal for accurately defining the relative
+context of a component’s true reliability value.
+71. D: Within the realm of statics and mechanics, a structure is considered statically indeterminate
+if the number of forces (variables) exceeds the number of available equilibrium equations. In this
+working example, there are four separate forces placed upon the static hoist, and yet there are only
+three independent equilibrium equations depicting the relationships of these forces; the object’s
+condition is hence considered to be statically indeterminate because the equations cannot be solved
+to render a single definitive value attributable to each force variable.
+72. D: According to H. W. Heinrich, out of every 100 accidents, approximately 88 of them, on
+average, are the result of direct (erroneous) actions of individuals. Moreover, approximately 10 of
+them are usually attributable to unsafe conditions, and two of them are typically characterized as
+unavoidable. Hence, for the case example, out of 425 incidents, approximately 375 would be
+attributable to the direct actions of individuals.
+73. B: An endeavor to uncover and reduce hazards that may be at hand for product or system users,
+as well as to those who are accountable for their maintenance, is conventionally known as an
+Occupational Health Hazard Assessment. Such assessments also usually attempt to evaluate ways to
+reduce risks or impacts resulting from such hazards if an associated undesirable event was to
+subsequently unfold.
+74. A: In a fault-tree sequence, Events A, B, and C have estimated probabilities (frequencies) of
+occurrence equal to 0.1, 0.01, and 0.005, respectively. For a resulting system failure to occur (Event
+D), Events A and B or Events A and C must transpire. According to the fault-tree’s analysis, the
+approximate overall probability that Event D may occur is equal to 0.00105. This is derived via the
+statistical approach of an “OR” (-gate) scenario being followed through the fault-tree to spawn the
+aforementioned system failure (Event D). Mathematically, this is attained per the following:
+Probability of Event D (system failure) = { [(P x P ) + (P x P )] – [(P x P ) x (P x P )] }
+A B A C A B A C
+= { [0.001 + 0.0005] – [0.0000005] }
+48
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+≈ 0.0015
+75. D: For a vehicle moving along at a steady speed of 50 m/s followed by a deceleration rate of –6
+m/s for 100 m, to determine the speed of the vehicle when the vehicle began to accelerate again
+(after the 100 m slowdown), the following calculation is employed:
+v2 = v 2 + 2ad, where v is the speed at the point of reacceleration; v is the initial speed of the
+o o
+vehicle; a is the acceleration; and d is the change in position between the two speed measurements.
+v2 = (50 m/s)2 + 2(–6 m/s)(100 m)
+= (2500) + (–1200)
+= (1300)1/2
+≈ 36 m/s
+76. D: For a plaintiff to prove strict liability, he or she must convincingly demonstrate three
+fundamental evidentiary levels regarding an allegedly defective product: (1) that the product was
+indeed defective; (2) that the product was defective upon departure of the defendant’s
+stewardship; and (3) that the defect resulted in direct injury to the plaintiff. A consumer-fraud
+finding would not be applicable to the situation either because it was not demonstrated that the
+defendant was intentionally selling a defective product. Obligatory culpability is not a finding that
+could result from this court proceeding.
+77. A: For work principally conducted in mines, the U.S. Mine Safety and Health Administration
+(MSHA) typically employs a measurement parameter known as a severity measure (SM) that is
+used for assessing levels of worker injury and/or loss. The formula for calculating SM over a
+calendar year is the following: SM = [(number of lost workdays)(200,000)] ÷ [total number of
+employee hrs worked]. Thus in this specific case, SM = [(5)(200,000)] ÷ [125,000] = 8.
+78. C: If two separate containers are being simultaneously filled with a chemical at a rate of 2.5
+gal/min, with one container being cylindrically shaped with a diameter of 12 in and a height of 24
+in, whereas the other is box shaped with dimensions of 16 in x 9 in x 30 in, neither one will have yet
+overflowed after exactly 4 min of filling. This is determined via the following:
+Available filling capacity (volume) of cylinder = πr2h = 2,714 in3 = 11.75 gal
+Available filling capacity (volume) of box = l x w x h = 4,320 in3 = 18.70 gal
+If the fill rate is 2.5 gal/min, after 4 min only 10 gal would have been filled in both containers. The
+cylindrical container would still have a 1.75 gal spare capacity at this point, and the box container
+would still have an 8.70 gal spare capacity.
+79. B: From the following list comprised of hazard scores associated with each of the noted
+categories within a given work area, on a scale from 1 to 10, where 1 depicts a minimal hazard and
+10 depicts a maximal hazard, it can likely be ascertained that a considerable portion of gears,
+pulleys, and/or belts in the work area are in need of more robust guarding (regarding the provided
+score of 7 for pinch point hazards).
+Hazard Score
+Chemical containment 4
+Noise 3
+49
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+Open floor plans / tripping 8
+Lighting 1
+Electrical 6
+Fire suppression 2
+Ergonomics 9
+Machinery pinch-points 7
+80. D: Given that the half-life of the isotope Cobalt-60 (Co-60) is approximately 5.3 year, after 16
+years, a given sample would have undergone a decay equivalent to approximately 3 half-lives and
+would thus be reduced by a factor of 7/8 (87.5 percent, i.e., only 1/8 of the original sample’s
+activity—and hence, corresponding dose rate—measured at time t would remain at time = 16
+0
+years). So, if the original dose rate (@ t ) was 2,000 mrem/hr at 9 ft from the source, the dose rate
+o
+(@t = 16 years) will equal approximately 0.125(2,000) = 250 mrem/hr at that same 9-ft distance.
+Gamma-ray point-source (e.g., Co-60) intensities (and hence, corresponding dose rates) change
+proportionally with the square of distance (d2). As such, the change in dose rate between a 9-ft and
+4-ft distance is calculated as follows:
+Dose rate @ 4 ft = [Dose rate @ 9 ft x (92 / 42)] = (250 mrem/hr) x (5.0625) ≈ 1,266 mrem/hr
+= 1.266 rem/hr
+Hence, for 10 CFR 20’s annual occupational dose limit of 5 rem not to be exceeded, an individual
+cannot be exposed for more than approximately 4 hrs at a location of 4 ft from this source.
+81. B: The measured area between the function f(x) = 2x3 + x2 – 5 and the x-axis, between the points
+x = 0 and x = 3, is determined via the integration of the subject function and assessed at the point
+1 2
+limits of x = 0 and x = 3. Hence, the (definite) integral of the subject function is 2x4/4 + x3/3 – 5x;
+upon plugging in the point limits of x = 0 and x =3, we obtain a resulting area (under the curve to
+the x-axis) of:
+[2(3)4/4 + 33/3 – 5(3) – 2(0)4/4 + 03/3 – 5(0)] = [40.5 + 9 – 15] = 34.5
+In the case of the circle, if the circumference is 25, then the associated area of the subject circle is
+derived via: C = π2r = 25; r is thus determined to be 3.98. Then, we are now able to derive the
+circle’s area via: A = πr2 = π(15.84) = 49.8.
+Area of circle (49.8) > Area under function (34.5)
+82. C: Breathing secondhand smoke is an example of an involuntary risk scenario. Such a scenario
+usually encompasses a situation in which a person is at risk due to a lack of understanding the
+extent of a given risk or is unknowingly subjected to higher risks that are only known to the entities
+that are responsible for the presence of an associated hazard at the onset. In contrast, examples of
+voluntary risks include driving a car, smoking cigarettes, scuba diving, and skydiving.
+83. B: A worker who was exposed to a hazardous chemical for 4 hrs per day over a 3-day period,
+and a month later was subsequently diagnosed with a liver condition that has historically been
+shown to manifest as a result of exposure to this chemical, is an example of an acute exposure
+followed by systemic health effects. Acute exposures are typically categorized as those that occur
+over a very short to short period of time (i.e., a few s to a few days); chronic exposures occur for
+much longer periods (i.e., weeks to years). Moreover, systemic effects typically manifest in bodily
+50
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+organs or systems that can have long-lasting, serious impacts, whereas localized effects are
+typically less serious and more temporary in nature (e.g., eye irritation, skin burns, or mucus
+membrane inflammation).
+84. C: For a horizontally oriented fire system (i.e., no elevation throughout the system), water flows
+through a 4-in pipe. The measured head loss in a 500-ft section of the system is 20 ft. The residual
+pressure at Point A is 30 psi, and the velocity at point A is 8 ft/s. If the velocity at Point B is 10 ft/s,
+the pressure at Point B may be determined via the following equation:
+v 2/2g + p /w + z = v 2/2g + p /w + z + h , whereby v is the velocity at point a; g is the
+a a a b b b ab a
+gravitational acceleration constant; p is the pressure at point a; w is the water density (62.4 lb/ft3);
+a
+z is the elevation at point a; v is the velocity at point b; p is the pressure at point b; z is the
+a b b b
+elevation at point b; and h is the piezometric head (equivalent to the sum of elevation-z and head
+ab
+between points a and b)
+Hence, employing v 2/2g + p /w + z = v 2/2g + p /w + z + h , this particular problem is to solve for
+a a a b b b ab
+p .
+b
+[82/2(32.2)] + [30/62.4](144 in2/ft2) + 0 = [102/2(32.2)] + [p /62.4] + 0+ 20
+b
+0.994 + 69.2 = 1.553 + [p /62.4] + 20
+b
+70.2 = 21.553 + [p /62.4]
+b
+48.6 = [p /62.4]
+b
+3,036 lb/ft2 = 21.1 lb/in2
+85. A: A worker (who weighs 170 lbs or any other weight for that matter) who falls off a 20-ft-high
+scaffold will impact the ground at approximately 25 mph (ignoring any losses due to air friction)
+and would thus be expected to sustain potentially serious injuries. This resulting impact speed is
+calculated via the following:
+Velocity at Impact = [(2) x (g) x (height)]1/2 = [(2)(32.2 ft/s2)(20 ft) x]1/2 ≈ 35 ft/s
+= (35 ft/s)(mi/5,280 ft)(3600 s/hr) = 24.5 mph ≈ 25 mph
+86. B: A parameter that is conventionally used to measure the quantity of time that a worker may
+remain in an area that has been infiltrated by a known amount of hazardous/toxic gas (or fumes)
+without suffering any adverse health effects is known as an emergency exposure limit (EEL). As the
+nomenclature indicates, this value is typically employed in emergency situations when retrieval of
+immobilized personnel or the stabilization of facilities is required. Most recommended EEL values
+typically fall in the min to hrs range, with 8 hrs usually seen as a conventional ceiling. There are
+potential situations, however, where if concentration and toxicity levels are high enough, only a
+time frame in the seconds range can hence be tolerated.
+87. D: Plutonium-239 is both radiologically and chemically hazardous. All plutonium isotopes
+essentially maintain a chemical toxicity similar to that of lead and are extremely hazardous
+radiologically (especially when inhaled) due to their very highly energetic alpha particle emissions.
+In contrast, although lead-208 and mercury-202 are both chemically hazardous, they are also both
+radiologically stable and therefore do not pose a radiation hazard. Argon-40 is a radioactive
+isotope; however, it is not considered a chemical hazard.
+51
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+88. D: Per the work-area noise-level measurements provided (assessed over a two-week time
+span), a CSP, ASP, or IH should conclude that the area does not meet the minimum TWA threshold
+levels of a hazardous noise area as per OSHA 1910.95 (i.e., an 8-hr TWA greater than 85 dBA); thus,
+hearing protection PPE is not mandatory. However, it should be nevertheless recommended due to
+average levels being close to this threshold, with occasional exceedances at hand.
+Measurement Number of Measurement Measurement
+Day Hours Measured Range Average
+1 of 10 6.75 74-81 dBA 77 dBA
+2 of 10 8 67-79 dBA 71 dBA
+3 of 10 3 86-88 dBA 87 dBA
+4 of 10 8 71-92 dBA 79 dBA
+5 of 10 7 81-85 dBA 84 dBA
+6 of 10 3.5 77-80 dBA 78 dBA
+7 of 10 8 58-72 dBA 67 dBA
+8 of 10 6.5 66-70 dBA 69 dBA
+9 of 10 2.25 89-94 dBA 93 dBA
+10 of 10 7.5 75-83 dBA 78 dBA
+89. B: The respiratory disease Siderosis is known to be caused by exposure to iron oxide (rust) dust.
+Working in a steel mill (given that iron is the major component of steel) thus entails higher risks of
+contracting Siderosis. In contrast, asbestosis is caused by overexposure to asbestos fibers.
+90. A: An air-contaminant concentration of approximately 50 ppm is expected to result in following
+air-filtration through a three-stage filter bank with individual respective efficiencies (ε ) of 90
+x
+percent, 95 percent, and 99 percent. This is calculated via the following:
+Post-filtration contamination = [(1 – ε ) (1 – ε ) (1 – ε )] = [(0.10)(0.05)(0.01)] = 0.000050 = 50
+1 2 3
+ppm
+91. B: If a gas at a pressure of 5 psia occupies a volume of 100 cm3 at a temperature of 20°K, the
+resultant pressure of the gas will remain at 5 psia if the temperature is increased to 30°K at a
+volume of 150 cm3. The pressure remains constant in this case because both the temperature and
+volume increased proportionally by the same quantity (50 percent). This principle is illustrative of
+Charles’ Gas Law.
+92. B: At altitudes of about 10,000 ft above sea level, lower concentrations of oxygen in the
+atmosphere can begin to have noticeable physiological effects on humans (i.e., hypoxia), symptoms
+of which may include confusion, tachycardia, skin color changes, shortness of breath, and sweating.
+Over 15,000 ft, symptoms can become acutely serious with blood oxygen saturation levels dropping
+to near 80 percent. At over 20,000 ft, consciousness will shortly be lost.
+93. A: If the inhalation dose conversion factor (DCF) for isotope “X” is 1 rem per curie (Ci), and a
+i
+facility that processes this isotope releases 2.22 x 1013 becquerels (Bq, 600 curies) of it per year, a
+resulting annual inhalation dose of approximately 18 mrem is expected for a downwind receptor
+who has a breathing rate of 18.31 in3 (300 cm3) per s and is subjected to an atmospheric
+concentration dispersion coefficient (X/Q) of 1 x 10–7 s per cm3. This resultant dose is calculated via
+the following:
+Inhalation Dose ≈ (Source Term)(BR)(DCF)(X/Q)
+52
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+= (2.22x1013 Bq)(1 Ci/3.7x1010 Bq)(18.31 in3/s)(16.39 cm3/in3)(1000 millirem/Ci)(1x10–7 s/cm3)
+= 18 mrem
+94. B: If a work area has dimensions of 10 m x 10 m x 3 m, the shortest amount of time it could
+potentially take for the entire supply of air in the room to (hypothetically) be completely exchanged
+via an air-exchanger HVAC system that operates at a rate of 80 cfm would be approximately 2.2
+hours. This is calculated via the following:
+Total air exchange time = (300 m3)(1 min/80 ft3)(35.31 ft3/m3) = 132.4 min = 2.2 hours
+95. A: Radon, a naturally occurring gas that results from the radioactive decay of radium in earthen
+soils, is primarily an alpha radiation source. If inhaled, radon’s energetic alpha particles (and
+progeny) are very hazardous to lung tissues and can result in significantly increased risks or
+incidences of lung cancer. The U.S. Environmental Protection Agency recommends a radon
+concentration awareness action level at 2 pCi/L and a mitigation action level at 4 pCi/L.
+For the case example of a 24-hr radon survey conducted in a work area that measured radon
+concentrations every hour on the hour, the following may be concluded from the provided
+information:
+Time Concentration (Ci/L)
+1600 (Day 1) 1.2 x 10–12
+1800 (Day 1) 9.3 x 10–13
+2000 (Day 1) 1.8 x 10–12
+2200 (Day 1) 2.7 x 10–12
+0000 (Day 1) 4.3 x 10–12
+0200 (Day 1) 3.8 x 10–12
+0400 (Day 1) 1.9 x 10–12
+0600 (Day 1) 1.3 x 10–12
+0800 (Day 1) 8.8 x 10–13
+1000 (Day 1) 8.1 x 10–13
+1200 (Day 1) 1.1 x 10–12
+1400 (Day 1) 1.4 x 10–12
+1600 (Day 2) 1.3 x 10–12
+1800 (Day 2) 9.9 x 10–13
+2000 (Day 2) 1.5 x 10–12
+2200 (Day 2) 2.5 x 10–12
+0000 (Day 2) 3.9 x 10–12
+0200 (Day 2) 3.5 x 10–12
+0400 (Day 2) 1.3 x 10–12
+0600 (Day 2) 8.5 x 10–13
+0800 (Day 2) 1.0 x 10–12
+1000 (Day 2) 1.2 x 10–12
+1200 (Day 2) 1.3 x 10–12
+1400 (Day 2) 9.6 x 10–13
+The average (mean) measured concentration for the 24-hr sampling period is found equal to
+approximately 1.77 x 10–12 Ci/L, which equates to 1.77 picocuries/L (pCi/L); therefore, no EPA
+categorical action level (i.e., 2 pCi/L or 4 pCi/L) has been exceeded, and thus no remedial action is
+53
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+recommended. Given the temporary, clustered, and consistent nature of the elevated readings
+(noted in bold) at 2200, 0000, and 0200 on both Days 1 and 2, it is very likely that these are due to
+nighttime atmospheric inversion layer events, which keep the radon more suppressed at ground
+levels.
+96. D: The conventionally established definition for upper flammable limit (UFL) or upper
+explosive limit (UEL) for a gas is the highest concentration of gas (or vapor) relative to air at which
+such a gaseous material is able to ignite.
+97. A: Steve and Mary both work on an assembly line with varying degrees of machine-guarding
+adequacy. Steve, who primarily works near pulleys and belts, never tucks in his shirt and always
+wears a loose-hanging bracelet. Mary, in contrast, who primarily works near axles and gears, has
+long, loose-flowing hair and always wears a long, dangling necklace. Via the provided information,
+because all of the machinery Mary works near is fully guarded (i.e., essentially fully enclosed), it is
+extremely unlikely for either her necklace or hair to get caught in any of the machinery. Although
+Steve works near much fewer potential pinch points (four versus 24 for Mary), they are either
+unguarded or only partially guarded, therefore creating a realistic potential for Steve to be involved
+in a “caught-in-a-machine”-related incident. Although other potential contributory variables such as
+lengths of shifts, part-time versus full-time status, and precise work locations or functions relative
+to pinch point angles and configurations are not known, it can be concluded from the information
+provided that Steve is at a definitively higher risk due to all of Mary’s local potential pinch points
+being fully guarded.
+98. C: Current is the standard electrical parameter (not voltage) that potential electrocution deaths
+to humans are measured by. In relative terms, it does not require considerable quantities of current
+to adversely impact biological functions. Current levels in the range of 0.1 to 0.2 amperes (amps)
+are typically denoted as the death range in which fatalities will most likely occur. Ironically, at
+currents greater 0.2 amps, although breathing may temporarily stop and burns may occur, the
+heart will often clamp itself shut during the period of exposure. A clamping condition such as this
+actually protects the heart from entering into ventricular fibrillation, with a person’s chances for
+resulting survival usually being quite optimistic following the event.
+99. B: Glassification and ceramification are two modes of immobilization used in the disposition of
+hazardous, mixed, and nuclear wastes. Such waste materials are usually industrially amalgamated
+in tandem with stable glass or ceramic matrices to prevent the leaching of such materials into the
+surrounding environment.
+For the case of a waste management company required to dispose of 10 MT of waste using either or
+both of these subject technologies, the cost of a 50-50 allocation (by weight) endeavor is calculated
+via the following:
+Cost to glassify 5 MT of waste with a bulk density (ρ) = 4.8 g/cm3 and at $1,000/ft3:
+(5MT)(1000kg/MT)(cm3/4.8g)(1000g/kg)($1000/ft3)(ft3/28,317cm3) = $36,786
+Cost to ceramify 5 MT of waste with a bulk density (ρ) = 4.8 g/cm3 and at $5,000/ft3:
+(5MT)(1000kg/MT)(cm3/4.8g)(1000g/kg)($5000/ft3)(ft3/28,317cm3) = $183,930
+Total cost estimate = $220,716
+54
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+100. C: Given that the pipe’s flow is definitively characterized as laminar, by definition, the
+Reynolds number (Re) must be less than 2,000. To calculate the pressure for such a pipe with a 6-in
+radius and a laminar flow rate of 1,000 gpm, the following formula is employed:
+P = Q2/891d4, where Q is the laminar flow rate and d is the pipe diameter
+P = (1000 gpm)2 / (891)(12 in)4
+P = 0.054 psi
+101. A: A company physician recommends that an overweight employee implement a weight-loss
+plan to lose 52 lbs. If the employee has been up to that point in time regularly eating 5,000 calories
+per day and exhibits an equilibrium caloric intake level of 2,500 daily calories (the caloric daily
+intake whereby weight remains stable), the percentage he or she must decrease daily caloric intake
+to lose the target weight over 1 year’s time (assuming that he or she regularly burns the
+equilibrium-level 2,500 calories per day through normal metabolism and exercise over that year,
+and that 1 ounce of fat is equivalent to 200 calories) is determined via the following:
+To lose 52 lbs over a year is equivalent to an average of 1 lb per week. To lose 1 lb per week
+through caloric cutbacks alone, a total of 457 less net calories must be consumed per day. This is
+derived per the following:
+[(–200 cal/oz)(16 oz/lb)(1 lb/wk)(1 wk/7 days)] = –457 cal/day
+Given that the worker’s equilibrium intake level is 2,500 calories, he or she must therefore take in
+no greater than 2,043 calories (i.e., 2,500 – 457) on an average daily basis to meet the weight-loss
+goal within a year’s time.
+This is a 59.1 percent reduction in daily caloric intake from the present level of 5,000 calories/day.
+102. C: Oscilloscopes are normally utilized within industrial settings for assessing electronic output
+signals and associated parameters. Each block on the provided oscilloscope display represents one
+unit. The signal’s amplitude is defined as the number of units from the x-axis to the peak of the
+waves (2), and the period is defined as the number of units covered (x-directionally) from the start
+of a wave cycle through its completion (2). The signal shape is symmetrically sinusoidal (i.e., a sine
+wave) given that it starts and ends at a functional (y) value equal to zero on the x-axis, has maxima
+and minima at the π/2 and 3π/2 points, and is symmetrically bisected by the x-axis.
+103. C: Microwave power density from an antenna or similar RF-type source may be calculated at
+any discrete distance via the use of the following formula: W = AP/λ2r2, whereby W = power
+density, A = the effective area of the antenna, P = the antenna’s power, λ = wavelength distance, and
+r = distance from the antenna.
+55
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+W = { [π(250 cm)2] x [50,000 mW] ÷ [(1 cm)2 x (1,000 cm)2] } = 9,817 mW/cm2
+104. A: Head of a fluid moving through a pipe is calculated via the following: h = v2/2g, where v =
+v
+fluid velocity and g = gravitational acceleration constant (32.2 ft/s2). Thus, for this subject case,
+h = [(16 ft2/s2) ÷ 2(32.2 ft/s2)] = 0.25 ft.
+v
+105. A: Approximate exposure or dose rates from gamma sources at a distance of 1 ft can be
+calculated per the formula D = 6CEN, where C = the number of curies of the source, E = the energy
+of the emitted gamma ray (in MeV), and N = the percent of time the subject gamma ray is emitted
+when a disintegration occurs. Thus, for a 10 micro-curie source with a single 2.5 MeV gamma ray
+that is emitted 100 percent of the time, the estimated resulting dose rate (in rem/hr) at 1 ft is
+calculated to be 0.000025.
+D = 6CEN = 6(10x10–6 Curies)(2.5 MeV)(1.0) = 0.000025 rem/hr
+106. C: Alkali metals, such as sodium, lithium, and potassium typically react strongly (and often
+violently) when exposed to water. Soluble alkaline hydroxides and hydrogen gas are normally
+produced in these highly exothermic reactions. From a safety perspective in the workplace, it is
+always vital to keep these metals dry and isolated and away from any potential water or moisture
+sources. In the subject case, the calculated amount of heat released via a standard reaction between
+92 g of pure sodium and 0.072 L of water, if approximately 185 kJ/mole is normally released in
+such a reaction, is determined as follows:
+2Na + 2H O  2NaOH + H , with an associated heat release of 370 kJ (i.e., 2 moles x 185 kJ/mole)
+2 2
+2 moles of sodium = 46 g and 92 g = 4 moles
+2 moles of water = 36 g and 72 g = 4 moles
+Because 0.072 L = 72 ml and the density of water is 1 g/ml, there are therefore 72 g of water (i.e., 4
+moles) for the case of this reaction.
+Hence, because there are 4 moles of each substance involved in the reaction, the resultant quantity
+of heat released is 4 moles x 185 kJ/mole = 740 kJ.
+107. A: In risk-assessment space, a severity-rating of critical is typically associated with the
+following conditional scenarios: (1) major damage to equipment or systems; (2) permanent partial
+impairment or temporary total impairment to workforces (likely includes injuries and/or
+fatalities); (3) appreciably disabled operational capabilities; (4) a major degree of overall property
+damage; and/or (5) high degrees of environmental releases or impacts.
+108. C: A chemical’s (Material) Safety Data Sheet (SDS) is virtually always produced and supplied
+by the chemical manufacturer. Moreover, there are numerous SDS databases and resources
+available via the Internet for locating a particular SDS, especially for generic-type materials. For this
+subject case, a CSP is attempting to identify an unlabeled chemical within a work area per with
+56
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+information he or she has analyzed in the chemical’s SDS’s “Exposure Controls/Personal
+Protection” section, including the following:
+Engineering Controls
+Provide robust exhaust ventilation or other engineering controls to keep airborne vapor
+concentrations below their respective threshold limit value. Ensure that eyewash stations and
+safety showers are near workstation locations.
+Personal Protection
+Gloves, boots, face shield, full suit, and vapor respirator—be sure to use an approved or certified
+respirator or equivalent thereof.
+Personal Protection in Case of a Large Spill
+Gloves, boots, face shield, full suit, and vapor respirator—a self-contained breathing apparatus
+should be used to avoid inhalation. Suggested protective clothing might not be sufficient against
+this liquid material; it is recommended a specialist be consulted before handling this product.
+Exposure Limits
+TWA: 0.025 from ACGIH (TLV) [U.S.] SKIN TWA: 0.05 CEIL: 0.1 (mg/m3) from OSHA (PEL) [U.S.].
+Inhalation TWA: 0.025 (mg/m3) [UK]. Local authorities should be contacted as appropriate for
+permissible exposure limits.
+It can be resultantly determined (through the process of elimination from the provided
+information) that the unidentified material in question is most likely mercury, particularly in light
+of the very conservative TWAs and PEL presented. In addition, MEK, acetone, and ammonia would
+typically not mandate the rigorous levels of PPE controls that are recommended.
+109. A: Per OSHA’s 29 CFR 1910.146, confined space entry, a permit-required confined space,
+means that the space may exhibit the potential for engulfing an entrant. In addition, the space may
+contain an oxygen-depleted or hazardous atmosphere or may present an internal configuration
+such that a worker could become trapped or asphyxiated by inwardly converging walls or by a floor
+that slopes downward and tapers into a smaller cross-section.
+For the case of a rectangular-shaped confined space (with no air circulation, ventilation, or supplied
+air) with associated dimensions of 10 ft x 8 ft x 6 ft (i.e., 480 ft3), the amount of time it will contain
+enough breathable oxygen for survival (on the high side, assuming total replacement of O with CO
+2 2
+during respiration) if occupied by a worker who has an average breathing rate of 300 cm3/s is
+determined as follows:
+In this conservative case example, over time, the O in the air within a confined space will deplete
+2
+and be replaced by CO due to human respiration. Normal O levels in air are ~21 percent; however,
+2 2
+if depletion occurs for a long-enough time within a confined space, levels can become dangerously
+low. Death typically occurs when O levels in air reach about the 7 percent level. Thus, for a worker
+2
+with an average breathing rate of 300 cm3/s, a 7 percent oxygen level will be attained in a 480 ft3
+confined space (with no air circulation, ventilation, or otherwise supplied air, and a conservative
+assumption that all O is replaced by 100 percent CO during the respiration process) in
+2 2
+approximately 8.4 hrs. This is derived per the following calculation:
+(300 cm3 air/s)(0.21 O content)= 63 cm3 O /s
+2 2
+57
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+480 ft3 = 13,592,160 cm3
+(13,592,160 cm3 free-air in room)(0.21 O content) = 2,854,353 cm3 O
+2 2
+(13,592,160 cm3 free-air in room + CO buildup)(0.07 O content) = 951,451 cm3 O
+2 2 2
+2,854,353 cm3 – 951,451 cm3 = 1,902,902 cm3
+Hence, the period of time it takes to consume 1,902,902 cm3 O at a rate of 63 cm3/s is the amount
+2
+of time a worker will have in the confined space until death occurs from oxygen deprivation.
+1,902,902 cm3 ÷ 63 cm3/s = 30,205 s = 8.4 hrs
+It should be noted, however, that fatal concentrations of CO (i.e., > 10 percent in air) may likely
+2
+occur prior to the oxygen level reaching ~7%. Hence, the actual survival time within this confined-
+space scenario may in fact be considerably less than the 8.4 hrs calculated for oxygen-depletion
+alone.
+110. D: The quadratic equation is used for solving second-order expressions (in the form of ax2 + bx
++ c) that cannot be directly factored. The formula is as follows:
+−𝑏±√𝑏2−4𝑎𝑐
+𝑥 =
+2𝑎
+Hence, solving for the expression 3x2 + 4x – 5 = 0, the derived solutions for “x” would be as follows:
+x = 0.79 and x = –2.12
+111. B: Salt (sodium chloride) has a molecular weight equal to 58.44 g. By definition, this means
+that 1 mole of salt = 58.44 g = 6.023 x 1023 molecules. Consequently, in 14.61 g of salt, there would
+be ¼ (6.023 x 1023 molecules), or 1.506 x 1023 molecules.
+112. B: The series of seven elements that can only exist as diatoms (dual-atoms) in nature when
+they are standing alone are: hydrogen (H ), nitrogen (N ), oxygen (O ), iodine (I ), bromine (Br ),
+2 2 2 2 2
+chlorine (Cl ), and fluorine (F ). One will note that these are all gasses at standard temperature and
+2 2
+pressure. Moreover, fluorine has the highest level of electronegativity in the entire periodic table,
+which means that it has the highest tendency of any atom to attract a bonding pair of electrons. In
+the frequently used Pauling scale, which measures electronegativity, fluorine has an assigned value
+of 4.0, which is higher than any other element in the periodic table.
+113. C: Time-weighted-average (TWA) exposures to a singular chemical are calculated per the
+following:
+[(aC + bC +… xC ) ÷ (∑ exposure times)]
+1 2 z
+Thus, an employee who is exposed to carbon monoxide (CO) concentrations of 100 ppm for 1 hr,
+500 ppm for 2 hrs, and 750 ppm for 15 min, receives a TWA exposure of 396 ppm.
+{ [(1 hr)(100 ppm) + (2 hr)(500 ppm) + (0.25 hr)(750 ppm)] ÷ [3.25 hr] } = 396 ppm
+114. C: If an 8-hr PEL for a hazardous respirable dust is 20 mg/m3, the associated PEL for an
+employee working a 10-hr shift is equal to 16 mg/m3. This is derived via solving the following
+equation for 10-hr extended shifts:
+(8 hr PEL value)(8 hrs) = (x)(10 hrs)
+58
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+(20 mg/m3)(8 hrs) = 10x
+x = 16 mg/m3
+115. D: To calculate an aggregate lower flammability limit (LFL) for a chemical mixture, the
+following formula is applied:
+LFL = 1 / [(f /LFL + f /LFL +… f /LFL )]; where f = fraction of the mixture
+m 1 1 2 2 n n
+Hence, a liquid mixture containing 50 percent methyl alcohol, 35 percent methyl ethyl ketone, and
+15 percent acetone, with respective lower flammability limits of 1.5 percent, 1.1 percent, and 0.75
+percent results in an overall (aggregate) LFL for the entire mixture of 1.17 percent.
+LFL = 1 / [(0.50/1.5 + 0.35/1.1 + 0.15/0.75)] = 1/0.8513 ≈ 1.17%
+m
+116. D: The calculated approximate recommended weight limit (RWL) in pounds that has a load
+constant (LC) equal to 51 lbs; a horizontal multiplier (HM) equal to 0.75; a vertical multiplier (VM)
+equal to 0.90; a distance multiplier (DM) equal to 0.87; an asymmetric multiplier (AM) equal to
+0.85; a frequency multiplier (FM) equal to 0.45; and a coupling multiplier (CM) equal to 0.95 is
+determined to be 11 lbs. (Note: there is no such parameter as a transitional multiplier.”)
+Hence, the result is derived via the following calculation:
+RWL = LC x HM x VM x DM x AM x FM x CM = (51 lbs)(0.75)(0.90)(0.87)(0.85)(0.45)(0.95) ≈ 11 lbs
+117. B: To determine which noise would be louder at a distance of 30 ft from its source, the
+following formula is employed:
+dB = dB – |20log(d /d )|
+2 1 1 2
+For case #1, a 100 dB noise is heard 3 ft away from its source:
+dB = 100 – |20log(3/30)|
+2
+dB = 80 dB @ 30 ft
+2
+For case #2, a 120 dB noise is heard 1 ft away from its source:
+dB = 120 – |20log(1/30)|
+2
+dB = 90.4 dB @ 30 ft
+2
+Thus, at a distance of 30 ft, the 120 dB noise at 1 ft is louder than the 100 dB noise at 3 ft. In
+addition, hearing protection would be required at this distance for an 8-hr TWA due to it exceeding
+hazardous noise level thresholds.
+118. B: The equivalent polar-coordinate (r, θ) of the Cartesian-plotted point (6, 4) is calculated as
+follows:
+The point (6, 4) is plotted in the Cartesian system, with “r” connecting the point (0, 0) to (6, 4). This
+“r” in essence, is the hypotenuse of the resulting created triangle; thus, the Pythagorean Theorem
+may be employed to find the value of “r.” It is 7.21.
+The value of θ is the newly created angle (which completed the triangle) between the x-axis and “r.”
+Through simple trigonometric application, the angle can be calculated. For example, sin θ = 4 ÷ 7.21
+= 0.555. Arcsin 0.555 = 33.7°.
+59
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+119. D: Minimum required air sampling volume for a gas is determined via the following equation:
+V = (1000 L/m3 x LOQ) / C, whereby LOQ = limit of quantification (range) [in mg], and C =
+min t t
+contaminant target concentration [in mg/m3]. (Note: 2.42 mg/m3 = 1 ppm.)
+Hence, for a gas that has an LOQ (range) of 5.2 – 65.7 micrograms and a target concentration of 880
+ppm, the minimum required sampling volume is derived as follows:
+V = (1000 L/m3 x 0.0052 mg) / 2,130 mg/m3 = 0.0024 L
+min
+120. B: Per OSHA 29 CFR 1910.95, 30 min of continual exposure at a 115 dBA noise level is twice
+the specified limit (of 15 min) required by the standard. Thirty min of continual exposure is,
+however, permitted at a level of 110 dBA or less.
+121. A: A Class-III biological safety cabinet is the highest degree of protection available within the
+biological safety classification system. Given the case example of an industrial organization being in
+the process of acquiring a new Class-III biological safety cabinet, with the following comprising a
+list of technical specifications provided by a candidate cabinet vendor, one major flaw or omission
+is noted.
+Technical Specification Summary for Acme Corporation—Level III BioCab—Model # 2A6535001CM
+Arm-length rubber gloves
+Provides excellent physical protection to workforce
+ASTM-rated at 90 percent negative-pressure and 95 percent gas-tight efficiency
+Sealed front panel
+Air drawn into cabinet through HEPA filtration system
+Dimensions: 80" x 48" x 36"
+Double-welded steel frame and casing
+ASTM-rated lead-glass windows
+Double-gasket O-ring seal design at outlets
+Inflow velocity 150 fpm
+The cabinet should be 100 percent negatively pressurized and have a 100 percent gas-tight
+efficiency rating.
+122. C: Within the realm of thermodynamics, the term heat of combustion (hoc) is conventionally
+defined as the amount of heat (in cal) emitted by the combustion of 1 g of a substance. For the four
+generic-example scenarios provided to assess which has the highest associated hypothetical hoc,
+individual evaluations must be performed to ascertain which has the highest cal count per unit g.
+Case 1—4,600 cal emitted by the combustion of one mole of Na-23:
+1 mole of Na-23 = 23 g; 4,600 cal/23 g combustion = 200 cal/g
+Case 2—908 cal emitted by the combustion of 0.1 lb of helium:
+0.1 lb of helium = 45.4 g of helium; 908 cal/45.4 g = 20 cal/g
+Case 3—257 cal emitted by the combustion of 1 g of hydrogen = 257 cal/g
+Case 4—10 kilocalories emitted by the combustion of 2.5 moles of sulfuric acid:
+2.5 moles of sulfuric acid = 2.5 moles H SO ; 1 mole of H SO = 98 g; 2.5 moles = 245 g;
+2 4 2 4
+60
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+10,000 cal/245 g ≈ 41 cal/g
+So, Case 3 (1 g of hydrogen) is determined to be the highest for this example problem.
+123. B: The solution to the expression (i4 + 2i3 – 5i2 – 4i – 1)2 is determined as follows:
+(Imaginary) value (i) = (–1)1/2
+[((–1)1/2)4 + 2((–1)1/2)3 – 5((–1)1/2)2 – 4((–1)1/2) – 1]2 = [(1) +2(–i) – 5(–1) – 4i – 1]2
+= [1 – 2i + 5 – 4i – 1]2 = [5 – 6i]2 = (5 – 6i) (5 – 6i) = 25 – 60i + 36i2 = 25 – 60i + 36(–1)
+= –60i – 11.
+124. D: According to NFPA criteria, Class IIIB combustible liquid classes strictly exhibit flash points
+that are in exceedance of 200°F. A substance’s flash point is defined as the minimum temperature at
+which it gives off a vapor in sufficient concentration to form an ignitable mixture with the air near
+the material’s surface. As such, this class is considered the safest of all potential categories due its
+susceptibility to ignition being the most minimal.
+125. B: Wind-chill (factor) temperature is calculated per the following formula:
+WC (°F) = 35.74 + 0.6215T – 35.75(V0.16) + 0.4275T(V0.16)
+Hence, for the case of an air temperature (T) equal to 20°F and a wind speed (V) of 15 mph, the
+associated wind-chill temperature is found to be 6.2°F.
+WC = 35.74 + 0.6215(20) – 35.75(150.16) + 0.4275(20)(150.16)
+WC = 35.74 + 12.43 – 55.14 + 13.19
+WC = 6.22 ≈ 6.2
+126. C: Kinetic energy (in joules [J]) is calculated per the formula KE = 1/2mv2, where m = mass (in
+kg) and v = velocity (in m/s). Thus, the kinetic energy of a 9,000 lb forklift moving at a speed of 5
+mph is calculated via the following:
+KE = 1/2mv2 = { 0.5(9000 lb)(0.454 kg/lb)[(5 mph)(1609 m/mile)(0.000278 hr/s)]2 }
+KE = 10,219 kg-m2/s2 = 10,219 joules = 10.2 kJ
+127. B: If a company borrows $1 million to start a business, the entire loan will cost the business
+$1,490,833 over a repayment period of 10 years if the lender charges a 4 percent interest rate
+compounded monthly. This is calculated via the formula F = P(1 + i/n)nt, whereby F = loan future
+value, P = initial loan amount, i = the interest rate, n = number of times per year the interest is
+compounded, and t = the number of years loan is being repaid.
+F = P(1 + i/n)nt = $1,000,000(1 + 0.04/12)(12)(10)
+F = $1,000,000(1.490833) = $1,490,833
+128. D: According to U.S. Bureau of Labor statistics, transportation-related incidents normally
+account for the highest fatality rates across all industries (approximately 40 percent). The second-
+highest is contact with objects or equipment at about a 20 percent incidence rate.
+61
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+129. A: The three fundamental categories of risk management (process) controls are physical,
+educational, and avoidance. Examples of physical controls are guarding, barriers, and signage;
+examples of educational controls are knowledge, training, and skills; and examples of avoidance
+controls are the initiation of programs or incentives by management in support of hazard-aversion
+reinforcement goals.
+130. C: A material’s specific gravity (SG) is defined as the ratio of that material’s density to that of
+the density of water and is particularly important when addressing issues resulting from chemical
+spills. In general, if an SG is < 1, the material will float, and if it is > 1, it will sink. Thus, if the density
+of Material-X is equal to approximately 3.5 g/cm3 (or 3.5 g/ml), then the SG of that material is
+calculated as (Density ÷ Density ) = (3.5 g/cm3 ÷ 1.0 g/cm3) = 3.5.
+x H2O
+131. C: Human cycles that are believed to affect behavior every 25 to 30 days and can influence
+facets such as intellect, logic, emotions, strength, and stamina are known as biorhythms. In the
+workplace (as in everyday life), it is important to recognize that employees will likely have varying
+degrees of acuity and focus due to these cycles; thus, associated variances in human performance
+metrics should resultantly be expected.
+132. B: Block-and-tackle equipment and devices are regularly used in industrial settings for lifting
+heavy loads. As such, the generic formula of F = W ÷ x is typically utilized for depicting the
+relationship between the vertical force (F) and the weight (W) of the lifted load. The “x” in the
+formula conventionally represents the number of times the connected chain or rope passes
+between the load end and the anchored end of the block-and-tackle system.
+133. A: Database management systems and computer-aided-design (CAD) systems often work best
+in tandem for optimally improving safety and minimizing hazards in the workplace.
+134. B: The two primary standards of the BSCP Code of Ethics and Conduct mandate that certified
+professionals of all levels uphold the esteem, integrity, and influence of the safety profession.
+135. B: Given the following information from the vehicle’s onboard computer as well as the
+vehicle’s published technical specifications, the approximate number of miles the tires have been
+driven can be calculated as follows:
+* 92,518,000 driveshaft rotations
+* 3.6 driveshaft (DS) rotations = 1 complete tire rotation (straight-line driving)
+* 30-in diameter (15-in radius [r]) tires
+Tire mileage = (2rπ/tire rotation)(1 ft/12 in)(1 mile/5,280 ft)(1 tire rotation/3.6 DS
+rotations)(92,518,000 DS rotations) = 38,229 mile
+Although the 40,000-mile limit has not yet been officially reached, good safety management
+practices would mandate that the tires be changed at this point in time. This is all the more
+substantiated by the visual inspection performed by the fleet manager.
+136. C: For the CSP to assess the rate of change (of the functions) at the midpoint of each year (i.e., t
+= 6), the slopes of the functions must be calculated for each of the functions at the point t = 6. This is
+accomplished by taking the derivative of each function and then plugging in the value of 6 for “t,”
+globally.
+Year 1: f(t) = t2 + 4t + 3: Derivative = 2t + 4; @ t = 6, the slope = 2(6) + 4 = 16
+62
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+Year 2: f(t) = 2t2 – 6t + 1: Derivative = 4t – 6; @ t = 6, the slope = 4(6) – 6 = 18
+Year 3: f(t) = 3t3 + 2t – 5: Derivative = 9t2 + 2; @ t = 6, the slope = 9(6)2 + 2 = 326
+Year 4: f(t) = 2t3 – t2 + 4t + 6: Derivative = 6t2 – 2t + 4, the slope = 6(6)2 – 2(6) + 4 = 216 – 12 + 4 =
+208
+Thus, the function for Year 3 is determined to have the highest slope (i.e., rate of change) at time
+point t = 6.
+137. C: The power (P) in an alternating current circuit where the voltage is 75 V, the impedance (R)
+is 10 ohms, and the sine of the phase angle (Φ) is 0.643, is calculated via the following:
+arcsin 0.643 = 40°
+P = [(V2)(cos Φ)] ÷ [R] = [(5,625)(0.766)] ÷ [10] = 431 watts
+138. A: A robust occupational safety program should include, at a minimum, the seven following
+key categories or tenets: hazard identification, work control, procedural compliance and document
+control, emergency response protocol, training, incentive programs (e.g., VPP), and proper use and
+deployment of personal protective equipment (PPE).
+139. D: For the case of a $50,000 per annum injured employee going on short-term disability for a
+period of 3 months at full compensation, followed by long-term disability for a period of 5½ months
+that pays two-thirds of his regular wage, and then returning to work as a 0.75 full-time-equivalent
+(FTE) for the remainder of the year, the employee would have resultantly made $38,716 in
+equivalent income over that year. This is calculated via the following:
+{[(0.25 yr)($50,000/yr)] + [(0.4583 yr)($50,000/yr)(0.6667)] + [(1-0.25-0.4583
+yr)($50,000/yr)(0.75)]} =
+{[$12,500] + [$15,277] + [$10,939]} = $38,716
+140. B: The U.S. Department of Transportation (USDOT) should be immediately notified (first) in
+the event of any accidental release of hazardous materials during transportation. This includes, but
+is not limited to, any chemical, radiological, or biohazardous media.
+141. D: The five prototypical elements commonly associated with a robust risk management
+program cycle are (1) identification, (2) evaluation, (3) enhancement, (4) training, and (5)
+feedback. These elements are generally implemented as stand-alone items within the risk
+management cycle; however, there can often be numerous overlaps and interdependencies among
+them depending on the precise construct of the subject program at hand.
+142. B: A full-face respirator is most appropriate while working in an area with high lead dust
+concentration levels, which are likely in exceedance of established action levels. Although a half-
+face respirator in many cases may also be adequately suitable from a respiratory-protection
+standpoint, utilizing a full-face system provides protection to the eyes.
+143. C: The technique of energy isolation is regularly implemented by safety engineers to protect
+people and products from impacts or damage that may result from accidents. Prime examples
+include car bumpers, crumple zones, and hard hats.
+63
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+144. A: Techniques such as peer collaboration, case-study deployment, and role-play are commonly
+used when attempting to effectively train supervisors and upper management on protocols not
+specifically laid out in procedural guidance.
+145. D: If a plant employee notes that a subject pressure-vessel pressure gauge is reading 625 psia,
+when it normally operates at 500 psia with a safety variability margin of ±15 percent, the MOST
+appropriate action for the worker to undertake after reading the gauge is to immediately notify the
+shift supervisor of the situation and consult the appropriate system contingency plan or procedure
+on how to appropriately respond to the transient (anomalous) reading.
+146. A: Electric arcs are a major safety hazard for electrical power industry personnel. These
+hazards usually result in extremely high temperatures over very small time periods, along with
+extremely high pressure waves. In addition, airborne shrapnel also typically manifests from such an
+event. Workers who survive such events are typically the victims of severe burns.
+147. C: An individual who is hired for the specific purpose of impartially investigating worker
+issues or concerns and then suggesting associated resolutions to directorial boards is known as an
+ombudsman. Such individuals are typically independent contractors or freelancers to the subject
+organization and have no direct affiliation or history (i.e., subjectivity) with its workforce or
+management personnel.
+148. C: Commonly implemented conflict resolution methods utilized in industry include
+adjudicative resolution, consensual dispute resolution, and legislative resolution. These methods
+can employ the use of negotiators, arbitrators, and possibly the court system.
+149. B: A chemical tank within an industrial processing facility that has a large, highly visible
+warning label located approximately 1 ft away from the tank, and is clearly and legibly marked with
+large, red-colored English print and a clear and straightforward message, is a suitable warning
+system for such a container. However, given the fact that the facility employs both native English-
+speaking and Spanish-speaking personnel, the label should be posted in both English and Spanish.
+150. C: The development-evaluation phase of the product life cycle usually concludes with the
+decision of whether (or not) to move forward with a product’s development.
+151. D: From the information provided, it is not possible to definitively determine with certainty
+what the subject employee may be experiencing. He or she may possibly just be experiencing
+temporary muscular or nerve tightness and numbness (and other possible symptoms) that often
+accompany exposure to cold, or he or she may in fact be possibly experiencing the onset of a stroke.
+The most appropriate response for the CSP and nurse to undertake in this scenario is to dial 911 for
+a medical emergency in case it is indeed the latter scenario (given the litany of associated keynote
+symptoms) and to provide shelter and warmth to the worker until the medical team arrives for its
+evaluation.
+152. B: When undergoing an external audit, the MOST important aspect to an auditor regarding an
+employee’s knowledge of a specific company procedural document is usually whether the employee
+is aware of the procedure’s existence and knows where and how to quickly access it for reference.
+Auditors usually do not require employees to memorize any parts of procedures, and in fact, many
+consider such an endeavor a liability given the increased likelihood of an error or noncompliance
+when attempting to work from memory, as opposed to having a live or written copy available to
+follow in a step-by-step fashion.
+64
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+153. B: Heat is transferred between a human and the surrounding environment through means of:
+(1) evaporation, (2) conduction, (3) radiation, and (4) convection. Heat is always transferred from
+higher temperatures to lower temperatures. Too much heat dissipation can result in cold stress-
+related conditions, and not enough dissipation can result in heat stress-related conditions.
+154. A: MIL-STD-882B is regularly implemented across a wide array of industries for directing the
+production of procedural guidance within the realm of system safety.
+155. B: Air ventilation systems are usually responsible for a variety of functions within the
+workplace. They facilitate the removal of carbon dioxide (CO )buildups, they remove odors, and
+2
+they regularly eliminate toxins especially through the use of built-in filtration units. They do not,
+however, directly increase the concentration of indoor oxygen levels (it is accurate to assert,
+however, that they may indirectly increase oxygen levels via their CO removal capability).
+2
+156. D: Tools, refuse articles (rags, empty cans, etc.), and lumber can all be significant tripping
+hazards depending on the size, weight, balance, and frictional coefficients of the item(s). In addition,
+uneven floor or ground surfaces, open file drawers, and electrical cables are also regularly
+responsible for tripping incidents in the workplace. The most appropriate course(s) of action for
+the CSP would be to immediately notify the responsible work parties in the area to remove,
+relocate, and/or properly store the articles in question. The CSP should also then notify the area
+manager in regard to these safety infractions and also recommend remedial safety training for
+responsible staff members.
+157. C: Calculations and assessments performed by insurance companies that evaluate company
+loss-rate records for establishing worker compensation rates are conventionally known as
+experience modifiers.
+158. D: On behalf of the user and to protect against liabilities, system safety designs normally
+allocate considerable detail to vital product facets such as proper-use protocols, maintenance,
+hygiene, safeguards, and ergonomics.
+159. A: The construction or modification phase during a facility development process should place
+considerable emphasis on quality assurance and quality control. Any significant lapse in these areas
+at this final stage of the process could potentially result in severe consequences.
+160. C: In the realm of safety-basis evaluation, a design-basis accident that has a frequency
+(probability) of occurrence in the range of 10–6 to 10–4 per year and potential associated
+consequences in the range of 100 to 300 deaths will have a resulting overall risk range of 0.0001 to
+0.03 deaths per year. This is derived given that risk = probability x consequences that an associated
+range would result from grouping the lowest probability and consequence combination for the low
+end, and that the highest probability and consequence combination for the high end.
+Low end of risk range = 10–6 x 100 fatalities = 0.0001
+High end of risk range = 10–4 x 300 fatalities = 0.03
+161. D: Given that Bob and Bill both work in a loud processing area, Bob has partial hearing loss
+and also speaks with a lisp, and Bill’s hearing is unimpaired, it is likely that the frequent
+miscommunications are due to Bob’s deafness, Bob’s not speaking clearly, and/or the ongoing loud
+background noise in the work area. Indeed, the communication issues may be predominately tied to
+one, two, or possibly all three of these factors; however, there may potentially be even other factors
+65
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+at play that may not be regularly accounted for (e.g., Bill may not have good listening skills or is
+always preoccupied or Bob and/or Bill may not be good body language communicators, etc.). In
+summary, there are too many potential causal variables in this case (several more of which may be
+unknown) to be able to render a firm determination as to the predominant (i.e., most likely) reason
+why there is so much miscommunication between these two individuals.
+162. A: A yellow warning sign that shows a downward arrow intersecting with a worker’s hard hat
+is likely depicting a potential (danger) for falling objects. If the sign were red colored, it would be
+representing a very high danger of falling objects.
+163. C: The law of safety progress states that an organization will undergo fiscal hardship if it
+generates or disseminates a hazardous product and then ultimately neglects to resolve the
+underlying issue(s) that is/are causing the hazard.
+164. B: Americium-beryllium (Am-Be) neutron sources, and the like, are often used in nuclear
+reactors and other systems to provide initial quantities of neutrons to help foster an eventual chain
+reaction that leads to a state of criticality. The most accurate description of how an Am-Be source
+generates its neutrons is via the employment of an (α, n) nuclear reaction. Americium is a prolific
+alpha-emitting radionuclide, and beryllium is very susceptible to absorption of such particles (i.e., it
+has a high alpha cross-section). When an alpha particle is absorbed by a beryllium atom, the
+beryllium undergoes a nuclear reaction in which its nucleus moves into a higher energy state and
+resultantly expels a neutron to regain stability.
+165. C: The office warden is usually responsible for taking roll calls during a shelter in place or a
+building evacuation. These roll calls help to ensure that all employees are accounted for during an
+emergency situation.
+166. B: If a rare event is at hand, such as a significant acid leak in a chemical processing plant, a
+special safety procedure that covers this type of event should be made immediately available and
+ultimately implemented for dealing with this type of transient or anomalous scenario.
+167. C: According to Frederick Herzberg’s theory of behavior, a worker’s desired extrinsic
+outcomes typically include facets such as job security, income, and safe and comfortable working
+conditions.
+168. A: According to statistical measures, workers who have habitual alcohol or drug problems
+miss work (i.e., incur lost days) approximately 15 times more often than those who do not have
+such problems. This statistic is especially compounded for those cases in which workers come to
+work in conditions not fit for duty and must subsequently leave the premises.
+169. D: A goniometer is typically utilized within the realm of ergonomics for measuring angles
+associated with human joints (e.g., knees, elbows, wrists, and ankles).
+170. C: A blood pressure reading of 171/79 along with a resting pulse rate of 103 would likely be
+inferred by an attending physician as a high systolic (hypertension) reading, a normal diastolic
+reading, and possible tachycardia (rapid pulse).
+171. C: There are numerous mechanisms and/or design configurations that can be employed
+within system components and machinery to create desired resistant forces that serve a functional
+purpose. Such mechanisms and configurations may include springs, inertia, and viscous damping.
+66
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+172. B: Decompression sickness can be significantly mitigated by preventing overexposure to high-
+pressure environments and carefully and steadily employing rates of decompression.
+173. A: A computer mouse or joystick is categorized as a continuous control mechanism. Light
+switches, buttons, and computer keyboards, although control mechanisms, are not of the
+continuous variety.
+174. D: Within the realm of system design, the integration of multiple elements with overlapping
+functions that permit the continuous normal (ongoing) operation of a given product in the case of
+one (or more) elemental failure(s) is known as redundancy.
+175. B: A system that automatically powers down all major electrical components if the ambient
+temperature within the facility exceeds a certain predetermined threshold level (due to fire) is an
+example of a fail-safe system.
+176. A: The robustness of hazardous waste shipping containers and casks has been thoroughly
+tested over the years primarily at U.S. national laboratories such as Sandia National Laboratory and
+Los Alamos National Laboratory. Evaluation modes have included thermal (high temperature), high
+impact, and drop testing.
+177. C: The two federal agencies that are primarily responsible for regulating the placement,
+storage, and amounts of combustible materials within industrial settings are the NFPA and OSHA.
+178. B: A static analysis determination is made for a piece of piping that renders the following
+results:
+The overall compression force on the pipe ≈ 50 N.
+According to laser-optic results, the pipe has not contracted (or altogether moved) by any
+discernible amount.
+Then a conclusion can be drawn that the pipe’s outward directional force should (also) be equal to
+about 50 N given that the pipe has had no record of discernible movement. This conclusion is in
+accordance with Newton’s Third Law as well as the statics-based fact that the sum of the forces in
+all directions must be equal to zero if there is no movement by a subject object.
+179. A: A negative safety margin value is theoretically correlated with a high risk of failure. A
+failure would hypothetically be expected to occur before a system or component reaches its
+predetermined design limit or load.
+180. B: There are 10 individual OSHA regional offices presently in existence across the United
+States. They are located in Boston, MA; New York City, NY; Philadelphia, PA; Atlanta, GA; Chicago,
+IL; Dallas, TX; Kansas City, MO; Denver, CO; San Francisco, CA; and Seattle, WA.
+181. A: There are several unique characteristics regarding regulation criteria of large-quantity
+hazardous waste generators (LQGs). These include no designated limit of the quantity of HAZMAT
+that is allowed to be stored at a specific time; the generation of > 1 kg of acute HAZMAT per month;
+an allowed maximum storage time of 90 days or less for most wastes; and a generation rate of >
+1,000 kg per month for ordinary waste classifications.
+182. C: In a fault-tree analysis, the term or gate “XOR” represents a condition whereby an output
+event occurs if exactly one input event occurs. Other terms or gates used in fault-tree analyses
+include: “AND,” “OR,” “Inhibit,” “Voting-OR,” and “Priority-AND.”
+67
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+183. D: Given that farming family injuries do not officially fall under the jurisdiction or auspices of
+OSHA, it is not necessary for any regulatory agency to be notified. David, may, however, follow any
+local county protocols for logging or tracking the incident if the associated agricultural cooperative
+agreement so requires it. Otherwise, no notifications should be made to any organization.
+184. B: Per OSHA’s 29 CFR 1910.147, Control of Hazardous Energy, a hot tap is defined as a
+maintenance or servicing procedure that entails pressurized welding operations for installing
+connections or other support equipment.
+185. C: An injury to the gonads would be categorized as a privacy case on an OSHA 300 form
+whereby the employee’s name is not ultimately recorded. Other scenarios that could qualify as
+privacy cases include a mental illness or condition, an injury or illness resulting from a sexual
+assault, HIV, TB, hepatitis, and potentially contaminated needle-stick injuries.
+186. B: Most portable fire extinguishers must be hydrostatically tested once every 5 years. There
+are certain types of extinguishers (e.g., dry chemical or steel shell, halon, and dry powder),
+however, that need only be hydrostatically tested once every 12 years.
+187. D: A qualitative fit test for a respirator is conventionally defined by a pass-or-fail evaluation to
+assess the level of fit adequacy based on a wearer’s response to a testing agent. In contrast, a
+quantitative fit test is typically defined as an assessment to determine the suitability of a respirator
+by measuring the amount of leakage into the device.
+188. C: A turtle suit (or a water-armor protective suit) is a form of PPE that is often worn to protect
+against the hazards of high-pressure water blasting. The suit adequately protects the legs, arms,
+and chest from glancing water blows for pressures up to 40,000 psi.
+189. D: An employee who is regularly subjected to several potential hazards, including strong
+inorganic acids (e.g., hydrochloric, hydrofluoric, or nitric), excessively loud noise (e.g., > 125 dB,
+unprotected), and falling objects should be required to adhere to the following PPE regimen in the
+performance of his or her regular daily activities: coveralls, safety goggles, earplugs and earmuffs,
+butyl rubber gloves, and a standard hard hat that can accommodate earmuffs.
+Coveralls should be worn at all times to help protect from acid splashes to the torso or limbs; safety
+goggles should be worn at all times to protect the eyes from acid splashes; and earplugs and
+earmuffs should be worn due to double protection being required to lower noise levels down to
+below 8-hr TWA hazardous thresholds. According to ANSI guidance, gloves made of butyl rubber
+are usually best suited for protecting workers from strong, inorganic acids (e.g., hydrochloric,
+hydrofluoric, and nitric); and a hard hat (which can accommodate earmuffs worn inside) should
+always be worn to protect the head against falling objects.
+190. C: Ground-fault circuit interrupters (GFCIs) are normally set at about 5 mA to adequately
+protect workers from electrocution scenarios. The GFCI works by detecting potential leakage
+current (a ground fault) in a circuit and then ultimately switches off the current in the circuit. This
+leakage detection is usually via an exposed person who is just beginning to be shocked; once the
+threshold of 5 mA leakage (loss) is attained, the GFCI switches off the circuit’s current in entirety.
+191. D: There are several case scenarios that could be categorized as exempt from workers’
+compensation coverage. These may include such instances as an individual who purposefully elect
+not to be covered; an individual employed for fewer than 20 consecutive workdays within an
+employer’s private home; an individual performing services in return for nonmonetary
+68
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+Get All HSE Resources at One Place (www.hsezip.com)
+compensation (e.g., aid or sustenance) provided by a religious organization or charity; or any
+person directly employed in agriculture.
+192. B: According to Abraham Maslow’s Hierarchy of Needs, personal facets such as creativity,
+problem solving, morality, spontaneity, and lack of prejudice all fall under the human need of self-
+actualization.
+193. C: A permissive democrat-type leadership personality typically permits employees to
+contribute to decision-making processes and affords subordinates a considerable degree of latitude
+in carrying out their tasks. Other types of leadership personalities include permissive autocrat
+(semi-liberal style), directive democrat (semi-liberal style), and directive autocrat (prototypical
+micromanagement style).
+194. D: The Epidemiological Theory of Accident Causation asserts that accidents can, in large part,
+be caused or prevented by the manner in which situational characteristics interplay with
+predispositional characteristics. Situational characteristics essentially depict the current state of
+affairs that workers are engaged in at a particular juncture, whereas predispositional
+characteristics are those that essentially depict the emotional states and moods of their colleagues.
+195. C: The multilinear events sequencing (MES) method usually employs a time line to illustrate
+the sequence of events or occurrences that contributed to or was the direct cause of an event.
+196. C: Retention rate efficiencies vary greatly in humans depending upon what mode of teaching
+or training is employed for a set of material. Studies have repeatedly shown that teaching or
+instructing others typically results in the highest material retention efficiency rates by a
+considerable margin. Employing discussion groups, utilizing demonstrations, and audiovisual
+training methods have also shown to be effective tools for yielding high retention but not as high as
+that attained through the teaching or training of others.
+197. D: An extremely dangerous shortcut that is all too often taken with pneumatic nail guns and
+hammers is the taping or fastening down of triggers and switches to attain automatic (effortless),
+repeated actuation of such tools. Numerous puncture accidents have occurred, particularly in the
+construction industry, due to this hazardous tactic.
+198. A: Oxygen cylinders in storage shall be separated from fuel gas cylinders (or combustible
+materials) by a minimum distance of 20 ft or by a noncombustible barrier at least 5 ft in height that
+has a fire-resistance rating of at least 1.5 hrs.
+199. B: For a worker to be permissibly located on a moving (mobile) scaffold that has a base width
+of 4 ft, the minimum required height for that scaffold must be at least 8 ft. OSHA requires at least a
+2:1 height-to-base ratio for mobile scaffolds.
+200. C: A hard hat’s safety zone is defined as the space or clearance between the hat’s shell and its
+suspension. The typical minimum recommended measurement for this space or clearance is 1 in.
+Many hard hat manufacturers, however, recommend a space of 1.25 in for additional safety margin.
+69
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.

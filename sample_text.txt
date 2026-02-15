@@ -1,0 +1,366 @@
+--- Page 3 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+CSP Practice Test
+1. Within the realm of statistics, which of the following is TRUE with regard to the
+fundamental counting principle?
+a. When the principle is applied for a given sample, the standard deviation is always equal to
+the variance.
+b. The order or position of an occurrence always affects the overall probabilistic outcome of
+an entire event.
+c. The number of possible permutations is always greater than the possible number of
+combinations.
+d. The number of possible permutations is always less than the possible number of
+combinations.
+2. Which of the following sets of colors is associated with the NFPA 704 Diamond System for
+the labeling of hazardous materials?
+a. Magenta, green, black, gold
+b. Blue, green, orange, white
+c. Red, yellow, green, black
+d. Yellow, blue, red, white
+3. A company is developing a new pharmaceutical product to help counteract the effects of
+mercury poisoning. Before it comes to market, however, the company must first seek
+approval by which of the following U.S. government agencies?
+a. U.S. Department of Health and Human Services (DHHS)
+b. U.S. National Institute for Drug Abuse (NIDA)
+c. U.S. Consumer Product Safety Commission (CPSC)
+d. U.S. Food and Drug Administration (FDA)
+4. Which of the following is NOT typically categorized as a “class” of hazard within an
+industrial or process setting?
+a. First-responder conveyance
+b. Falling of loads
+c. Handling of materials
+d. Materials being in motion
+5. If an injured worker wishes to file litigation against a company he or she feels is
+responsible for his or her maladies, which of the following attorneys should he or she most
+likely consult?
+a. Compensatory tort
+b. Criminal
+c. Civil
+d. OSHA attorney-general delegate
+6. What are the two different categories of workers’ compensation laws?
+a. Antecedent and post-factual
+b. Compulsory and elective
+c. Standard and closure
+d. Transitional and disability
+1
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 4 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+7. Which of the following is NOT typically regarded as a primary safety hazard associated
+with the use of powered vehicles in a work area?
+a. Potential carbon monoxide overexposure
+b. Exceeding load limits
+c. Blind spots
+d. Operator physical overexertion
+8. What is the conventional definition of a blasting agent?
+a. A material that demonstrates adequate stability in a stand-alone condition yet possesses
+enough exothermic potential to prompt an explosion when initiated
+b. A material, such as TNT, designed to detonate upon a threshold catalyst
+c. A material designed to explode upon mechanical impact
+d. Any solid or liquid substance that will easily ignite above standard temperature and
+pressure (STP) conditions
+9. Which of the following is NOT a type of conveyor mechanism that is primarily used for
+transporting bulk products or materials within an industrial setting?
+a. Belts
+b. Buckets
+c. Winches
+d. Rollers
+10. If a very large construction company experiences 369 work-related deaths, worldwide,
+over a recent 10-year span, about what number of them would likely be attributable to falls?
+a. 30
+b. 80
+c. 150
+d. 210
+11. What device is commonly used in industrial settings to measure potentially hazardous
+noise levels?
+a. An acoustics meter
+b. A noise dosimeter
+c. An audiometer
+d. A gain-differential inductance meter
+12. Which of the following is NOT a typical injury or illness-related metric that is regularly
+tracked by federal agencies?
+a. Frequency of work-related retaliation events
+b. Frequency of work-related deaths
+c. Frequency of job transfers
+d. Frequency of restricted duty
+13. Which of the following terms is typically NOT associated with the domain of gas or vapor
+sampling?
+a. Colorimetry
+b. Chromatograph
+c. Centrifugal separation
+d. Grab sample
+2
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 5 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+14. Which of the following is NOT inclusive of the OSHA Classification System for
+Occupational Illnesses and Conditions?
+a. Respiratory-related disorders or conditions
+b. Radiation-related disorders or conditions
+c. Skin-related disorders or conditions
+d. Blunt trauma-related disorders or conditions
+15. U.S. citizen employees who live and work in the United States have a legal right to
+___________ certain records under their name.
+a. inspect
+b. replace
+c. purge
+d. transfer
+16. A CSP and an industrial hygienist determine that the intensity of a certain physical
+parameter or phenomenon within a work area measures two footlamberts. Which of the
+following is being measured?
+a. Gamma radiation
+b. Ultraviolet radiation
+c. Microwaves
+d. Visible light
+17. To counteract high-pressure environments (e.g., that seen during deep underwater
+diving), which of the following tactics is typically implemented to counteract the potential
+effects of nitrogen narcosis?
+a. Replacing nitrogen with inert surrogate gases, such as helium
+b. Increasing supplied-air oxygen levels by 0.5 percent for every 10 ft of depth
+c. Requiring an ascension rate of at least 10 ft per min
+d. Limiting underwater excursions to less than 1 hr for depths greater than 50 ft
+18. Per the U.S. Clean Air Act, which of the following outdoor concentration readings would
+be considered a violation of National Ambient Air Quality Standards (NAAQS)?
+a. 0.5 ppm of carbon monoxide over an 8-hr period
+b. 0.05 ppm of ozone over an 8-hr period
+c. 1.0 μg/m3 of lead over a 3-month period
+d. 10 ppb of sulfur dioxide over a 1-hr period
+19. Which of the following functional-notation representations would depict a discount
+factor for a present dollar value given a future value at a 3 percent annual interest rate over
+7 years?
+a. (F|P, 7, 3%)
+b. (P|F, 3%, 7)
+c. (P|F, 7, 3%)
+d. (F|P, 3%, 7)
+3
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 6 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+20. What is a typical three-step process that should always be employed in industrial
+settings if there has been a hazardous material(s) spill?
+a. Inspection, notification, cleanup
+b. Isolation, mitigation, remediation
+c. Evacuation, notification, remediation
+d. Safety, containment, notification
+21. Acquired data from two distinct and separate variables is known as which of the
+following?
+a. Bimodal data
+b. Bivariate data
+c. Tandem-statistical corollaries
+d. Quadratic-bipolar data
+22. In this data set (3, 7, 9, 12, 26, 32, 45, 58), which of the following is the mode?
+a. 19
+b. 24
+c. None
+d. 0
+23. If the illustration shown here represents a standard normal distribution, approximately
+what percent of the total area below the curve is comprised of [(–2sd < x < –sd) + (0 < x <
+sd)]?
+a. 44 percent
+b. 48 percent
+c. 52 percent
+d. 56 percent
+24. Which of the following U.S. federal agencies is responsible for distributing statistical
+information pertaining to job-related injuries and illnesses?
+a. U.S. Occupational Safety and Health Administration
+b. U.S. Department of Health and Human Services
+c. U.S. Bureau of Labor Statistics
+d. U.S. National Institute of Occupational Safety and Health
+4
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 7 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+25. An ex-employee is looking to pursue legal action against his or her company for alleged
+wrongdoing. The company, in turn, is planning on defending itself based upon the fellow-
+servant rule. Which of the following grievance subject areas is the employee pursuing legal
+action for?
+a. Wrongful termination
+b. On-the-job injury
+c. Racial discrimination
+d. Sexual harassment
+26. Which agency or organization is typically responsible for setting the rate premiums that
+employers will pay for workers’ compensation insurance?
+a. U.S. Department of Commerce
+b. U.S. Department of Labor
+c. National Council on Compensation Insurance
+d. National Commission on Banking and Insurance Fiscal Regulation
+27. Sound octaves are conventionally characterized by _______________ with sequential octaves
+normally differing by a factor of _______________.
+a. wavelength, 10
+b. pitch, 100
+c. frequency, 2
+d. tone, 10
+28. If a pregnant employee is concerned about her child being exposed to potential
+teratogenic sources, which of the following should she avoid?
+a. Microwave radiation
+b. PCBs
+c. Coffee
+d. Acetic acid
+29. Which of the following is typically NOT a potential mode of particulate contamination?
+a. Aerosols
+b. Gases
+c. Mists
+d. Fumes
+30. Which of the following is usually NOT regarded as a hazard typically related to the use of
+high-pressure receptacles and containers?
+a. Pressures exceeding design safety levels
+b. Higher fire risks due to enhanced oxygen levels in certain containers
+c. Container failure due to corrosion
+d. Use of containers without always venting excess buildup
+31. A monitoring system should be employed in tandem with a(n) _______________ system to
+alert workforces of potentially hazardous conditions being at hand.
+a. warning
+b. emergency response
+c. shutdown
+d. actuator
+5
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 8 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+32. Which of the following is NOT a typical telltale sign that a chemical reaction may be
+ensuing as the result of a spill?
+a. Emission of smoke or vapor
+b. Evaporation or sublimation
+c. Bubble formation
+d. Unusual odors
+33. What is a financial covenant typically between an individual (e.g., an investor) and a
+corporate or government body that guarantees to repay an investment, plus accrued
+interest, at a predesignated time is known as?
+a. A bond
+b. A certificate of deposit
+c. An equity agreement
+d. A margin call
+34. Which of the following graphical tools is typically regarded as the MOST useful for clearly
+illustrating data groups that may fall within a particular value range?
+a. Histogram
+b. Bar graph
+c. Stem-and-leaf plot
+d. Box-and-whisker plot
+35. Which of the following statistical parameters is NOT utilized if one wishes to calculate a
+measure of dispersion for a given data set?
+a. Variance
+b. Standard deviation
+c. Range
+d. Median
+36. What is the approximate standard deviation (σ) for the following “entire population”
+data set?
+(2, 7, 11, 24, 44, 62, 79, 81, 105, 120, 139, 162)
+a. 39
+b. 52
+d. 54
+d. 70
+37. Which of the following is NOT a typical shape or characterization of a frequency curve?
+a. Multimodal
+b. Skewed
+c. J-shaped
+d. Step functional
+38. If a population of 100,000 people incurred an “LD50” exposure to radiation or chemicals,
+approximately how many acute deaths in that population would be expected?
+a. 0
+b. 2,000
+c. 50,000
+d. 100,000
+6
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 9 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+39. Which of the following is a detailed and systematic process to evaluate potential risks
+associated with the design and operation of a multifaceted, complex technology?
+a. Probabilistic risk assessment
+b. Failure modes and effects analysis
+c. Hazards assessment
+d. Documented safety analysis
+40. A group of individuals meets within an organization to discuss several potential tools
+that may be used for assessing a wide range of workplace system hazards. One of the
+individuals, in particular, insists that the best tool to employ for such a purpose is a
+“simultaneous, timed-events plotting analysis” and has successfully utilized them
+throughout his or her career. What is the MOST likely area of expertise of this individual?
+a. Root-cause analysis
+b. Probabilistic risk assessment
+c. Industrial engineering
+d. Safety engineering
+41. Within the specific quality assurance domains of audits and inspections, what does the
+acronym CAQ typically stand for?
+a. Certification of Absolute Qualification
+b. Condition Adverse to Quality
+c. Codified Audit Query
+d. Correction to Annotated Quantity
+42. An individual who is employed by the U.S. Department of Defense has recently been
+granted a “secret” level security clearance. Per U.S. NISPOM protocols, which of the following
+document cover color combinations would the employee be allowed to access?
+a. Brown, orange, red
+b. Orange, amber, green
+c. Red, green, blue
+d. Blue, gray, green
+43. A craft employee who was not paying attention while working with a circular saw lost
+two fingers in an accident. Corporate Health and Safety Management reported the accident
+to OSHA approximately 40 hours after the incident. According to OSHA 29 CFR 1904.39, the
+company is
+a. in violation of the allowable reporting time frame.
+b. in compliance with the allowable reporting time frame.
+c. in the probation zone of the allowable reporting time frame.
+d. not required to file an OSHA report but is instead required to file with the U.S. Department
+of Labor.
+44. In a total workforce of 200 people (who each work 2,000 hours over a calendar year), if
+there are 10 total cases of missed workdays, restricted duty, or transfer due to work-related
+injuries over that calendar year, what is the resulting DART rate?
+a. 10
+b. 5
+c. 20
+d. 2
+7
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
+--- Page 10 ---
+Get All HSE Resources at One Place (www.hsezip.com)
+45. A bar graph most closely resembles which of the following illustrative tools?
+a. A box-and-whiskers graph
+b. A stem-and-leaf plot
+c. A histogram
+d. A rectangular-regression plot
+46. A job hazard analysis is performed for an upcoming task that is to take place within a
+very high radiation area. What type of instrumentation would be most appropriate for use
+by health physicists (or rad-techs) for determining actual radiation levels of the area before
+workers enter to perform their assigned task?
+a. A teletector
+b. A Geiger counter
+c. A multichannel analyzer
+d. A thermoluminescent dosimeter (TLD)
+47. A “fishbone diagram” is also known as which of the following?
+a. A failure modes and effects analysis
+b. An event tree study
+c. A hazard and operability study
+d. A cause-and-effect analysis
+48. The 50th percentile value of a normal distribution is also always denoted as which of the
+following?
+a. Mean
+b. Median
+c. Mode
+d. The bisecting point
+49. Which of the following audit-finding classifications is usually considered the most
+serious?
+a. Conditions adverse to quality
+b. Corrective action issue
+c. Near miss
+d. Tier-1 infraction
+50. Per OSHA directive, VPP Merit-status employers are expected to commit to the
+pursuance of star status within a period of how many years?
+a. 1
+b. 2
+c. 3
+d. 4
+51. A waste storage receptacle containing sulfuric acid from used batteries should have
+which of the following waste code designation numbers?
+a. D-001
+b. D-002
+c. D-003
+d. D-004
+8
+Copyright © Mometrix Media. You have been licensed one copy of this document for personal use only. Any other reproduction or redistribution is strictly prohibited. All rights reserved.
+
