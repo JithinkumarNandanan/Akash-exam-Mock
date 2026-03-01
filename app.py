@@ -5,9 +5,7 @@ import random
 import os
 
 # Configuration
-# Use relative path for deployment compatibility
 QUESTIONS_FILE = "questions.json"
-TEST_DURATION_SECONDS = 3600 # 1 Hour
 
 def load_questions():
     if not os.path.exists(QUESTIONS_FILE):
@@ -15,7 +13,7 @@ def load_questions():
     with open(QUESTIONS_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def initialize_session_state(all_questions):
+def initialize_session_state():
     if 'test_started' not in st.session_state:
         st.session_state.test_started = False
     
@@ -23,9 +21,10 @@ def initialize_session_state(all_questions):
         st.session_state.start_time = None
         
     if 'selected_questions' not in st.session_state:
-        # Select random 40 questions or all if less than 40
-        num_q = min(len(all_questions), 40)
-        st.session_state.selected_questions = random.sample(all_questions, num_q)
+        st.session_state.selected_questions = []
+
+    if 'test_duration' not in st.session_state:
+        st.session_state.test_duration = 3600
         
     if 'user_answers' not in st.session_state:
         st.session_state.user_answers = {} # {q_id: option_key}
@@ -96,7 +95,7 @@ def main():
         st.error(f"Questions file not found at {QUESTIONS_FILE}. Please run the parser first.")
         return
 
-    initialize_session_state(all_questions)
+    initialize_session_state()
 
     # Sidebar: Exam Status & Navigation
     with st.sidebar:
@@ -105,7 +104,7 @@ def main():
         if st.session_state.test_started and not st.session_state.submitted:
             # Determine elapsed time for backend check
             elapsed = time.time() - st.session_state.start_time
-            remaining = TEST_DURATION_SECONDS - elapsed
+            remaining = st.session_state.test_duration - elapsed
             
             if remaining <= 0:
                 st.warning("Time is up!")
@@ -113,7 +112,7 @@ def main():
                 remaining = 0
             
             # Display Client-Side Ticking Timer
-            st.components.v1.html(get_timer_script(st.session_state.start_time, TEST_DURATION_SECONDS), height=80)
+            st.components.v1.html(get_timer_script(st.session_state.start_time, st.session_state.test_duration), height=80)
             
             # Navigation Board
             st.markdown("---")
@@ -149,7 +148,7 @@ def main():
                 elif q_id in st.session_state.visited_questions:
                     status_icon = "👁️"
                 
-                # Check for Current Question Highlight (visual cue only, standard button doesn't support easy dynamic styling without hacks)
+                # Check for Current Question Highlight
                 if i == st.session_state.current_q_index:
                     label = f"[{label}]" 
                 
@@ -163,18 +162,53 @@ def main():
             if st.button("Submit Exam", type="primary"):
                 st.session_state.submitted = True
                 st.rerun()
+                
+        elif not st.session_state.test_started and not st.session_state.submitted:
+            st.markdown("### Select a Practice Test")
+            test_options = [f"Test {i}" for i in range(1, 15)] + ["Random 100 Questions"]
+            
+            # Using radio buttons to show all options at once
+            selected_test = st.radio("Available Tests:", test_options)
+            
+            if selected_test == "Test 14":
+                st.caption("Contains exactly 80 questions. Time limit: 45 minutes.")
+            elif selected_test.startswith("Test"):
+                st.caption("Contains 100 questions. Time limit: 60 minutes.")
+            else:
+                st.caption("Contains 100 questions sampled randomly. Time limit: 60 minutes.")
+                
+            if st.button("Start Exam", type="primary"):
+                if selected_test.startswith("Test"):
+                    test_num = int(selected_test.split(" ")[1])
+                    start_idx = (test_num - 1) * 100
+                    
+                    if test_num == 14:
+                        end_idx = start_idx + 80
+                        duration = 45 * 60
+                    else:
+                        end_idx = start_idx + 100
+                        duration = 60 * 60
+                        
+                    selected_q = all_questions[start_idx:end_idx]
+                else:
+                    num_q = min(len(all_questions), 100)
+                    selected_q = random.sample(all_questions, num_q)
+                    duration = 60 * 60
+                    
+                st.session_state.selected_questions = selected_q
+                st.session_state.test_duration = duration
+                st.session_state.test_started = True
+                st.session_state.start_time = time.time()
+                st.rerun()
 
     # Main Area
-    st.title("CSP Mock MCQ Exam")
+    st.title("CSP Mock MCQ Exams")
     
     if not st.session_state.test_started:
-        st.info("Welcome to the CSP Mock Exam. You will have 60 minutes to answer 40 questions.")
+        st.info("Welcome to the CSP Mock Exam.")
         st.write(f"Total Questions Available in Pool: {len(all_questions)}")
-        if st.button("Start Exam"):
-            st.session_state.test_started = True
-            st.session_state.start_time = time.time()
-            st.rerun()
-    
+        st.write("👈 **Please select a test from the sidebar on the left to begin.**")
+            
     elif st.session_state.submitted:
         show_results()
     
@@ -207,7 +241,6 @@ def show_question():
     
     options = current_q['options']
     # Streamlit Radio requires a list. We need to map back the selected text to the key.
-    # To ensure consistent ordering, sort keys.
     opt_keys = sorted(options.keys())
     opt_labels = [f"{k}) {options[k]}" for k in opt_keys]
     
@@ -218,10 +251,9 @@ def show_question():
         try:
             index = opt_keys.index(current_selection)
         except ValueError:
-            index = 0 # Default if something goes wrong, though logic should prevent this
+            index = 0 
             
     # Display Radio
-    # Use a unique key for the radio widget to prevent state contamination between questions
     selected_label = st.radio(
         "Select your answer:",
         opt_labels,
@@ -229,7 +261,7 @@ def show_question():
         key=f"radio_{q_id}"
     )
     
-    # Update state immediately on selection (Streamlit script reruns on interaction)
+    # Update state immediately on selection
     if selected_label:
         selected_key = selected_label.split(')')[0]
         st.session_state.user_answers[q_id] = selected_key
@@ -260,26 +292,28 @@ def show_results():
     
     for i, q in enumerate(questions):
         q_id = q['id']
-        correct = q['answer'].lower()
+        # Fallback if answer wasn't extracted properly due to regex misses
+        correct = (q.get('answer') or "").lower()
         selected = user_answers.get(q_id, None)
         
-        is_correct = (selected == correct)
+        is_correct = (selected == correct) if correct else False
         if is_correct:
             score += 1
             
-        with st.expander(f"Q{i+1}: {q['question'][:80]}... - {'✅ Correct' if is_correct else '❌ Incorrect'}"):
+        status = '✅ Correct' if is_correct else '❌ Incorrect'
+        if not correct: status = "⚠️ Answer Key Missing"
+        
+        with st.expander(f"Q{i+1}: {q['question'][:80]}... - {status}"):
             st.markdown(f"**Question:** {q['question']}")
             
-            # Show Options with Highlight
             st.markdown("**Options:**")
             for k, v in q['options'].items():
                 prefix = ""
                 if k == correct:
-                    prefix = "✅ " # Correct Answer
+                    prefix = "✅ " 
                 elif k == selected and not is_correct:
-                    prefix = "❌ " # User's Wrong Answer
+                    prefix = "❌ " 
                 
-                # Bold the correct or selected answer
                 if k == correct or k == selected:
                      st.markdown(f"- {prefix}**{k}) {v}**")
                 else:
@@ -287,17 +321,21 @@ def show_results():
             
             st.markdown("---")
             st.markdown(f"**Your Answer:** {selected if selected else 'Not Answered'}")
-            st.markdown(f"**Correct Answer:** {correct}")
+            st.markdown(f"**Correct Answer:** {correct if correct else 'Unknown'}")
             st.info(f"**Explanation:** {q.get('explanation', 'No explanation provided.')}")
             
-    percentage = (score / total) * 100
+    percentage = (score / total) * 100 if total > 0 else 0
     
     st.metric(label="Final Score", value=f"{score}/{total}", delta=f"{percentage:.1f}%")
     
     if st.button("Restart Exam"):
         # Reset everything
-        for key in ['test_started', 'start_time', 'selected_questions', 'user_answers', 'submitted', 'current_q_index']:
-            del st.session_state[key]
+        keys_to_delete = ['test_started', 'start_time', 'selected_questions', 'test_duration', 
+                          'user_answers', 'submitted', 'current_q_index', 
+                          'flagged_questions', 'visited_questions']
+        for key in keys_to_delete:
+            if key in st.session_state:
+                del st.session_state[key]
         st.rerun()
 
 if __name__ == "__main__":
