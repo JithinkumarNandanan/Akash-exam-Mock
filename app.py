@@ -111,9 +111,6 @@ def main():
                 st.session_state.submitted = True
                 remaining = 0
             
-            # Display Client-Side Ticking Timer
-            st.components.v1.html(get_timer_script(st.session_state.start_time, st.session_state.test_duration), height=80)
-            
             # Navigation Board
             st.markdown("---")
             st.markdown("### Question Palette")
@@ -213,6 +210,8 @@ def main():
         show_results()
     
     else:
+        # Display the timer at the top of the main area
+        st.components.v1.html(get_timer_script(st.session_state.start_time, st.session_state.test_duration), height=80)
         show_question()
 
 def show_question():
